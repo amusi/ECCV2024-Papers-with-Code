@@ -53,6 +53,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D点云（分类/分割/配准/补全等）
 
+**A Closer Look at Local Aggregation Operators in Point Cloud Analysis**
+
+- 论文：https://arxiv.org/abs/2007.01294
+- 代码：https://github.com/zeliu98/CloserLook3D
+
 ## 3D点云补全
 
 **GRNet: Gridding Residual Network for Dense Point Cloud Completion**
