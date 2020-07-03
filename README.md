@@ -69,6 +69,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 显著性检测
 
+**BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network**
+
+- 论文：暂无
+- 代码：https://github.com/DengPingFan/BBS-Net
+
 **Highly Efficient Salient Object Detection with 100K Parameters**
 
 - 论文：https://arxiv.org/abs/2003.05643
