@@ -108,6 +108,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+**Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling**
+
+- 主页：[http://structured3d-dataset.org](http://structured3d-dataset.org/)
+- 论文：https://arxiv.org/abs/1908.00222
+- 代码：https://github.com/bertjiazheng/Structured3D 
+
 **AiR: Attention with Reasoning Capability**
 
 - 论文：暂无
@@ -118,6 +124,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Others"></a>
 
 # 其他
+
+**Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling**
+
+- 主页：[http://structured3d-dataset.org](http://structured3d-dataset.org/)
+- 论文：https://arxiv.org/abs/1908.00222
+- 代码：https://github.com/bertjiazheng/Structured3D 
 
 **AiR: Attention with Reasoning Capability**
 
