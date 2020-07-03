@@ -140,6 +140,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**GIQA: Generated Image Quality Assessment**
+
+- 论文：https://arxiv.org/abs/2003.08932
+- 代码：https://github.com/cientgu/GIQA
+
 **Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling**
 
 - 主页：[http://structured3d-dataset.org](http://structured3d-dataset.org/)
