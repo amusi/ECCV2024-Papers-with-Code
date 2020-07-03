@@ -57,7 +57,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **GRNet: Gridding Residual Network for Dense Point Cloud Completion**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2006.03761
 - 代码：https://github.com/hzxie/GRNet
 
 <a name="Super-Resolution"></a>
