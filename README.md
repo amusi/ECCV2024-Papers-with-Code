@@ -18,6 +18,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training**
+
+- 论文：https://arxiv.org/abs/2004.06002
+
+- 代码：https://github.com/hkzhang95/DynamicRCNN 
+
 ## 遥感旋转目标检测
 
 **Arbitrary-Oriented Object Detection with Circular Smooth Label**
