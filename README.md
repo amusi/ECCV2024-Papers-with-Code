@@ -66,6 +66,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 图像超分辨率
 
+**Spatial-Angular Interaction for Light Field Image Super-Resolution**
+
+- 论文：https://arxiv.org/abs/1912.07849
+- 代码：https://github.com/YingqianWang/LF-InterNet 
+
 **Invertible Image Rescaling**
 
 - 论文：https://arxiv.org/abs/2005.05650
