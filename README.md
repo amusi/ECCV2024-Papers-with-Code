@@ -100,6 +100,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 显著性检测
 
+**Cross-Modal Weighting Network for RGB-D Salient Object Detection**
+
+- 论文：暂无
+
+- 代码：https://github.com/MathLee/CMWNet
+
 **BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network**
 
 - 论文：暂无
