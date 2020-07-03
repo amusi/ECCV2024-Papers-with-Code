@@ -5,6 +5,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - [2D目标检测](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
+- [单/多目标跟踪](#Object-Tracking)
 - [GAN](#GAN)
 - [3D点云（分类/分割/配准/补全等）](#3D-PointCloud)
 - [超分辨率](#Super-Resolution)
@@ -39,6 +40,20 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：暂无
 - 代码：https://github.com/happinesslz/EPNet
+
+<a name="Object-Tracking"></a>
+
+# 目标跟踪
+
+## 多目标跟踪
+
+**Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
+
+- Oral
+
+- 论文：暂无
+
+- 代码：https://github.com/detectRecog/PointTrack
 
 <a name="GAN"></a>
 
