@@ -8,6 +8,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [3D目标检测](#3D-Object-Detection)
 - [单/多目标跟踪](#Object-Tracking)
 - [GAN](#GAN)
+- [NAS](#NAS)
 - [3D点云（分类/分割/配准/补全等）](#3D-PointCloud)
 - [超分辨率](#Super-Resolution)
 - [显著性检测](#Saliency)
@@ -86,6 +87,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：暂无
 - 代码：https://github.com/Ha0Tang/XingGAN
+
+<a name="NAS"></a>
+
+# NAS
+
+**Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search**
+
+- 论文：https://arxiv.org/abs/1911.12126
+- 代码：https://github.com/xiaomi-automl/fairdarts
 
 <a name="3D-PointCloud"></a>
 
