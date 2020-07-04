@@ -62,6 +62,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 目标跟踪
 
+**TAO: A Large-Scale Benchmark for Tracking Any Object**
+
+- 主页：http://taodataset.org/
+- 论文：https://arxiv.org/abs/2005.10356
+- 代码：https://github.com/TAO-Dataset/tao
+
 ## 多目标跟踪
 
 **Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
@@ -145,6 +151,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**TAO: A Large-Scale Benchmark for Tracking Any Object**
+
+- 主页：http://taodataset.org/
+- 论文：https://arxiv.org/abs/2005.10356
+- 代码：https://github.com/TAO-Dataset/tao
 
 **Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling**
 
