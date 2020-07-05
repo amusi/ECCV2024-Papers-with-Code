@@ -25,6 +25,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # CNN
 
+**MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution**
+
+- 论文：Oral
+- 论文：https://arxiv.org/abs/1909.12978
+- 代码：https://github.com/taoyang1122/MutualNet
+
 **PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer**
 
 - 论文：暂无
