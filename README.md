@@ -149,6 +149,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.05643
 - 代码：https://github.com/MCG-NKU/Sal100K
 
+<a name="Lane-Detection"></a>
+
+# 车道线检测
+
+ **Gen-LaneNet: a generalized and scalable approach for 3D lane detection** 
+
+- 论文：https://arxiv.org/abs/2003.10656
+- 代码：https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection
+- 数据集：https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset
+
 <a name="TP"></a>
 
 # 轨迹预测
@@ -161,6 +171,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+ **Gen-LaneNet: a generalized and scalable approach for 3D lane detection** 
+
+- 论文：https://arxiv.org/abs/2003.10656
+- 代码：https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection
+- 数据集：https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset
 
 **TAO: A Large-Scale Benchmark for Tracking Any Object**
 
