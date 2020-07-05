@@ -153,6 +153,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 车道线检测
 
+**Ultra Fast Structure-aware Deep Lane Detection**
+
+- 论文：https://arxiv.org/abs/2004.11757
+
+- 代码：https://github.com/cfzd/Ultra-Fast-Lane-Detection
+- 论文解读：https://mp.weixin.qq.com/s/TYzDx8R1oUbVr0FxGnFspQ
+
  **Gen-LaneNet: a generalized and scalable approach for 3D lane detection** 
 
 - 论文：https://arxiv.org/abs/2003.10656
