@@ -12,6 +12,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [3D点云（分类/分割/配准/补全等）](#3D-PointCloud)
 - [超分辨率](#Super-Resolution)
 - [显著性检测](#Saliency)
+- [车道线检测](#Lane-Detection)
 - [轨迹预测](#TP)
 - [数据集](#Datasets)
 - [其他](#Others)
