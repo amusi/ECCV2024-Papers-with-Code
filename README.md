@@ -86,6 +86,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 实例分割
 
+**Conditional Convolutions for Instance Segmentation**
+
+- Oral
+- 论文：https://arxiv.org/abs/2003.05664
+- 代码：https://github.com/aim-uofa/AdelaiDet/blob/master/configs/CondInst/README.md
+
 **SOLO: Segmenting Objects by Locations**
 
 - 论文：https://arxiv.org/abs/1912.04488
