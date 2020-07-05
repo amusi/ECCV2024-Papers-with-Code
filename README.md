@@ -8,6 +8,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [2D目标检测](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
 - [视频目标检测](#Video-Object-Detection)
+- [实例分割](#Instance-Segmentation)
 - [单/多目标跟踪](#Object-Tracking)
 - [GAN](#GAN)
 - [NAS](#NAS)
@@ -81,17 +82,28 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：暂无
 - 代码：https://github.com/jiangzhengkai/LSTS
 
+<a name="Instance-Segmentation"></a>
+
+# 实例分割
+
+**SOLO: Segmenting Objects by Locations**
+
+- 论文：https://arxiv.org/abs/1912.04488
+- 代码：https://github.com/WXinlong/SOLO
+
+- 知乎话题：https://www.zhihu.com/question/360594484
+
 <a name="Object-Tracking"></a>
 
-# 目标跟踪
+# 单/多目标跟踪
+
+## 多目标跟踪
 
 **TAO: A Large-Scale Benchmark for Tracking Any Object**
 
 - 主页：http://taodataset.org/
 - 论文：https://arxiv.org/abs/2005.10356
 - 代码：https://github.com/TAO-Dataset/tao
-
-## 多目标跟踪
 
 **Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
 
