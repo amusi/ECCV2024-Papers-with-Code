@@ -15,6 +15,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [3D点云（分类/分割/配准/补全等）](#3D-PointCloud)
 - [超分辨率](#Super-Resolution)
 - [显著性检测](#Saliency)
+- [图像检索](#Image-Retrieval)
 - [车道线检测](#Lane-Detection)
 - [轨迹预测](#TP)
 - [数据集](#Datasets)
@@ -200,7 +201,18 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.05643
 - 代码：https://github.com/MCG-NKU/Sal100K
 
-<a name="Lane-Detection"></a>
+<a name="Image-Retrieval"></a>
+
+# 图像检索
+
+**Self-supervising Fine-grained Region Similarities for Large-scale Image Localization**
+
+- 主页：https://yxgeee.github.io/projects/sfrs
+- 论文下载链接：https://arxiv.org/abs/2006.03926
+
+- 代码：https://github.com/yxgeee/SFRS
+
+ Image Retrieval <a name="Lane-Detection"></a>
 
 # 车道线检测
 
