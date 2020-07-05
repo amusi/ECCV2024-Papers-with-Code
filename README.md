@@ -7,6 +7,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [图像分类](#Image-Classification)
 - [2D目标检测](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
+- [视频目标检测](#Video-Object-Detection)
 - [单/多目标跟踪](#Object-Tracking)
 - [GAN](#GAN)
 - [NAS](#NAS)
@@ -69,6 +70,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：暂无
 - 代码：https://github.com/happinesslz/EPNet
+
+<a name="Video-Object-Detection"></a>
+
+# 视频目标检测
+
+**Learning Where to Focus for Efficient Video Object Detection**
+
+- 主页：https://jiangzhengkai.github.io/LSTS/
+- 论文：暂无
+- 代码：https://github.com/jiangzhengkai/LSTS
 
 <a name="Object-Tracking"></a>
 
