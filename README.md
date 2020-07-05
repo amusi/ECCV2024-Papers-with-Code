@@ -3,6 +3,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 关于往年CV顶会论文（如CVPR 2020、ICCV 2019、ECCV 2018）以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision 
 
+- [CNN](#CNN)
 - [图像分类](#Image-Classification)
 - [2D目标检测](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
@@ -17,6 +18,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
+
+<a name="CNN"></a>
+
+# CNN
+
+**PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer**
+
+- 论文：暂无
+- 代码：https://github.com/d-li14/PSConv
 
 <a name="Image-Classification"></a>
 
