@@ -15,8 +15,9 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [NAS](#NAS)
 - [3D点云（分类/分割/配准/补全等）](#3D-PointCloud)
 - [Re-ID](#Re-ID)
-- [超分辨率](#Super-Resolution)
 - [显著性检测](#Saliency)
+- [超分辨率](#Super-Resolution)
+- [去模糊](#Deblurring)
 - [图像补全](#Image-Inpainting)
 - [图像检索](#Image-Retrieval)
 - [车道线检测](#Lane-Detection)
@@ -193,22 +194,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/YunpengZhai/MEB-Net
 
-<a name="Super-Resolution"></a>
-
-# 超分辨率
-
-## 图像超分辨率
-
-**Spatial-Angular Interaction for Light Field Image Super-Resolution**
-
-- 论文：https://arxiv.org/abs/1912.07849
-- 代码：https://github.com/YingqianWang/LF-InterNet 
-
-**Invertible Image Rescaling**
-
-- 论文：https://arxiv.org/abs/2005.05650
-- 代码：https://github.com/pkuxmq/Invertible-Image-Rescaling
-
 <a name="Saliency"></a>
 
 # 显著性检测
@@ -228,6 +213,31 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2003.05643
 - 代码：https://github.com/MCG-NKU/Sal100K
+
+<a name="Super-Resolution"></a>
+
+# 超分辨率
+
+## 图像超分辨率
+
+**Spatial-Angular Interaction for Light Field Image Super-Resolution**
+
+- 论文：https://arxiv.org/abs/1912.07849
+- 代码：https://github.com/YingqianWang/LF-InterNet 
+
+**Invertible Image Rescaling**
+
+- 论文：https://arxiv.org/abs/2005.05650
+- 代码：https://github.com/pkuxmq/Invertible-Image-Rescaling
+
+<a name="Deblurring"></a>
+
+# 去模糊
+
+**End-to-end Interpretable Learning of Non-blind Image Deblurring**
+
+- 论文：https://arxiv.org/abs/2007.01769
+- 代码：暂无（即将出来）
 
 <a name="Image-Inpainting"></a>
 
