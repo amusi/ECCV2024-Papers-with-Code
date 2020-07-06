@@ -8,6 +8,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [2D目标检测](#Object-Detection)
 - [3D目标检测](#3D-Object-Detection)
 - [视频目标检测](#Video-Object-Detection)
+- [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
 - [单/多目标跟踪](#Object-Tracking)
 - [GAN](#GAN)
@@ -96,6 +97,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 主页：https://jiangzhengkai.github.io/LSTS/
 - 论文：暂无
 - 代码：https://github.com/jiangzhengkai/LSTS
+
+<a name="Semantic-Segmentation"></a>
+
+# 语义分割
+
+ **Improving Semantic Segmentation via Decoupled Body and Edge Supervision**
+
+- 论文：https://zhouchenlin.github.io/Publications/2020-ECCV-Semantic.pdf
+
+- 代码：https://github.com/lxtGH/DecoupleSegNets
 
 <a name="Instance-Segmentation"></a>
 
