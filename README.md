@@ -13,6 +13,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [GAN](#GAN)
 - [NAS](#NAS)
 - [3D点云（分类/分割/配准/补全等）](#3D-PointCloud)
+- [Re-ID](#Re-ID)
 - [超分辨率](#Super-Resolution)
 - [显著性检测](#Saliency)
 - [图像检索](#Image-Retrieval)
@@ -163,6 +164,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2006.03761
 - 代码：https://github.com/hzxie/GRNet
+
+<a name="Re-ID"></a>
+
+# Re-ID
+
+**Multiple Expert Brainstorming for Domain Adaptive Person Re-identification**
+
+- 论文：https://arxiv.org/abs/2007.01546
+
+- 代码：https://github.com/YunpengZhai/MEB-Net
 
 <a name="Super-Resolution"></a>
 
