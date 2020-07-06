@@ -16,6 +16,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [Re-ID](#Re-ID)
 - [超分辨率](#Super-Resolution)
 - [显著性检测](#Saliency)
+- [图像补全](#Image-Inpainting)
 - [图像检索](#Image-Retrieval)
 - [车道线检测](#Lane-Detection)
 - [轨迹预测](#TP)
@@ -211,7 +212,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2003.05643
 - 代码：https://github.com/MCG-NKU/Sal100K
 
-<a name="Image-Retrieval"></a>
+<a name="Image-Inpainting"></a>
+
+# 图像补全
+
+**Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations**
+
+- Oral
+- 论文：暂无
+- 代码：https://github.com/KumapowerLIU/ECCV2020oralRethinking-Image-Inpainting-via-a-Mutual-Encoder-Decoder-with-Feature-Equalizations
 
 # 图像检索
 
