@@ -52,6 +52,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**OS2D: One-Stage One-Shot Object Detection by Matching Anchor Features**
+
+- 论文：https://arxiv.org/abs/2003.06800
+
+- 代码：https://github.com/aosokin/os2d
+
 **End-to-End Object Detection with Transformers**
 
 - Oral
