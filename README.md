@@ -121,10 +121,9 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
 
 - Oral
-
 - 论文：https://arxiv.org/abs/2007.01550
-
 - 代码：https://github.com/detectRecog/PointTrack
+- 数据集：https://github.com/detectRecog/PointTrack
 
 <a name="GAN"></a>
 
@@ -241,6 +240,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
+
+- Oral
+- 论文：https://arxiv.org/abs/2007.01550
+- 代码：https://github.com/detectRecog/PointTrack
+- 数据集：https://github.com/detectRecog/PointTrack
 
  **Gen-LaneNet: a generalized and scalable approach for 3D lane detection** 
 
