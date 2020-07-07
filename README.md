@@ -31,6 +31,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # CNN
 
+**Rethinking Bottleneck Structure for Efficient Mobile Network Design**
+
+- 论文：https://arxiv.org/abs/2007.02269
+- 代码：https://github.com/zhoudaquan/rethinking_bottleneck_design
+
 **MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution**
 
 - 论文：Oral
@@ -175,6 +180,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="NAS"></a>
 
 # NAS
+
+**Rethinking Bottleneck Structure for Efficient Mobile Network Design**
+
+- 论文：https://arxiv.org/abs/2007.02269
+- 代码：https://github.com/zhoudaquan/rethinking_bottleneck_design
 
 **Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search**
 
