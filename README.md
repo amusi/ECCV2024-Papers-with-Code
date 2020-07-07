@@ -127,6 +127,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation**
+
+- Oral
+- 代码：https://github.com/GuoleiSun/MCIS_wsss
+- 论文下载链接：https://arxiv.org/abs/2007.01947
+
  **Improving Semantic Segmentation via Decoupled Body and Edge Supervision**
 
 - 论文：https://zhouchenlin.github.io/Publications/2020-ECCV-Semantic.pdf
