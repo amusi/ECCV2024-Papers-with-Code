@@ -32,6 +32,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # CNN
 
+**Learning to Learn Parameterized Classification Networks for Scalable Input Images**
+
+- 论文：暂无
+
+- 代码：https://github.com/d-li14/SAN
+
 **Rethinking Bottleneck Structure for Efficient Mobile Network Design**
 
 - 论文：https://arxiv.org/abs/2007.02269
@@ -51,6 +57,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Image-Classification"></a>
 
 # 图像分类
+
+**Learning to Learn Parameterized Classification Networks for Scalable Input Images**
+
+- 论文：暂无
+
+- 代码：https://github.com/d-li14/SAN
 
 **Learning To Classify Images Without Labels**
 
