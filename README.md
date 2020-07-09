@@ -32,6 +32,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # CNN
 
+**Dynamic Group Convolution for Accelerating Convolutional Neural Networks**
+
+- 论文：https://arxiv.org/abs/2007.04242
+- 代码：https://github.com/zhuogege1943/dgc
+
 **Learning to Learn Parameterized Classification Networks for Scalable Input Images**
 
 - 论文：暂无
