@@ -246,6 +246,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Re-ID
 
+**Robust Re-Identification by Multiple Views Knowledge Distillation**
+
+- 论文：https://arxiv.org/abs/2007.04174
+- 代码：https://github.com/aimagelab/VKD
+
 **Multiple Expert Brainstorming for Domain Adaptive Person Re-identification**
 
 - 论文：https://arxiv.org/abs/2007.01546
