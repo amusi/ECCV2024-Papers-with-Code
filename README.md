@@ -132,6 +132,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**SegFix: Model-Agnostic Boundary Refinement for Segmentation**
+
+- 论文：https://arxiv.org/abs/2007.04269
+
+- 代码：https://github.com/openseg-group/openseg.pytorch
+
 **Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation**
 
 - Oral
