@@ -242,6 +242,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2006.03761
 - 代码：https://github.com/hzxie/GRNet
 
+## 3D点云生成
+
+**Progressive Point Cloud Deconvolution Generation Network**
+
+- 论文：https://arxiv.org/abs/2007.05361
+
+- 代码：https://github.com/fpthink/PDGN
+
 <a name="Re-ID"></a>
 
 # Re-ID
