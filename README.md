@@ -56,7 +56,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2007.06191
 - 代码：https://github.com/d-li14/PSConv
 
 <a name="Image-Classification"></a>
