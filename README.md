@@ -373,6 +373,8 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：暂无
 - 代码：https://github.com/KumapowerLIU/ECCV2020oralRethinking-Image-Inpainting-via-a-Mutual-Encoder-Decoder-with-Feature-Equalizations
 
+ <a name="Image-Retrieval"></a>
+
 # 图像检索
 
 **Self-supervising Fine-grained Region Similarities for Large-scale Image Localization**
@@ -382,7 +384,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/yxgeee/SFRS
 
- Image Retrieval <a name="Lane-Detection"></a>
+<a name="Lane-Detection"></a>
 
 # 车道线检测
 
