@@ -41,7 +41,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Learning to Learn Parameterized Classification Networks for Scalable Input Images**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2007.06181
 
 - 代码：https://github.com/d-li14/SAN
 
