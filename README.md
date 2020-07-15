@@ -298,6 +298,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频理解/行为识别/行为检测
 
+**SF-Net: Single-Frame Supervision for Temporal Action Localization**
+
+- 论文：https://arxiv.org/abs/2003.06845
+- 代码：https://github.com/Flowerfan/SF-Net
+
 **Asynchronous Interaction Aggregation for Action Detection**
 
 - 论文：https://arxiv.org/abs/2004.07485
