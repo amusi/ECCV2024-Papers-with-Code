@@ -10,6 +10,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视频目标检测](#Video-Object-Detection)
 - [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
+- [视频目标分割](#VOS)
 - [单/多目标跟踪](#Object-Tracking)
 - [GAN](#GAN)
 - [NAS](#NAS)
@@ -166,6 +167,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 代码：https://github.com/WXinlong/SOLO
 
 - 知乎话题：https://www.zhihu.com/question/360594484
+
+<a name="VOS"></a>
+
+# 视频目标分割
+
+**Video Object Segmentation with Episodic Graph Memory Networks**
+
+- 论文：https://arxiv.org/abs/2007.07020
+
+- 代码：https://github.com/carrierlxk/GraphMemVOS
 
 <a name="Object-Tracking"></a>
 
