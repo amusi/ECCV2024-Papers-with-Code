@@ -19,6 +19,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [显著性检测](#Saliency)
 - [模型压缩（剪枝/知识蒸馏等）](#Model-Compression)
 - [视频理解/行为识别/行为检测](#Action-Recognition)
+- [深度估计](#Depth-Estimation)
 - [超分辨率](#Super-Resolution)
 - [去模糊](#Deblurring)
 - [图像补全](#Image-Inpainting)
@@ -319,6 +320,18 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2004.07485
 
 - 代码：https://github.com/MVIG-SJTU/AlphAction 
+
+<a name="Depth-Estimation"></a>
+
+# 深度估计
+
+## 单目深度估计
+
+**Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance**
+
+- 论文：https://arxiv.org/abs/2007.06936
+
+- 代码：https://github.com/ifnspaml/SGDepth
 
 <a name="Super-Resolution"></a>
 
