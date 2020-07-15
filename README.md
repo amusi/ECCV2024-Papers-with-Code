@@ -310,6 +310,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频理解/行为识别/行为检测
 
+**Actions as Moving Points**
+
+- 论文：https://arxiv.org/abs/2001.04608
+- 代码：https://github.com/MCG-NJU/MOC-Detector 
+
 **SF-Net: Single-Frame Supervision for Temporal Action Localization**
 
 - 论文：https://arxiv.org/abs/2003.06845
