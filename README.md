@@ -166,6 +166,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 实例分割
 
+ **Boundary-preserving Mask R-CNN**
+
+- 论文：暂无
+
+- 代码：https://github.com/hustvl/BMaskR-CNN
+
 **Conditional Convolutions for Instance Segmentation**
 
 - Oral
