@@ -80,6 +80,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**Probabilistic Anchor Assignment with IoU Prediction for Object Detection**
+
+- 论文：https://arxiv.org/abs/2007.08103
+- 代码：https://github.com/kkhoot/PAA
+
 **HoughNet: Integrating near and long-range evidence for bottom-up object detection**
 
 - 论文：https://arxiv.org/abs/2007.02355
