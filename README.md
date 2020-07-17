@@ -80,6 +80,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer**
+
+- 论文：https://arxiv.org/abs/2007.07986
+- 代码：https://github.com/mikuhatsune/wsod_transfer
+
 **Probabilistic Anchor Assignment with IoU Prediction for Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.08103
