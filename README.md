@@ -297,6 +297,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 显著性检测（SOD）
 
+**Suppress and Balance: A Simple Gated Network for Salient Object Detection**
+
+- Oral
+
+- 论文：https://arxiv.org/abs/2007.08074
+- 代码：https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency
+
 **Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.06227
