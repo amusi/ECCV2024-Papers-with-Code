@@ -472,6 +472,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches**
+
+- 主页：https://williamyang1991.github.io/projects/ECCV2020
+- 论文：https://arxiv.org/abs/2001.02890
+- 代码：https://github.com/TAMU-VITA/DeepPS
+
 **GIQA: Generated Image Quality Assessment**
 
 - 论文：https://arxiv.org/abs/2003.08932
