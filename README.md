@@ -297,6 +297,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 显著性检测（SOD）
 
+**Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection**
+
+- 论文：https://arxiv.org/abs/2007.06227
+
+- 代码：https://github.com/lartpang/HDFNet
+
 **A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.06811
