@@ -189,6 +189,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频目标分割
 
+**Collaborative Video Object Segmentation by Foreground-Background Integration**
+
+- 论文：https://arxiv.org/abs/2003.08333
+- 代码：https://github.com/z-x-yang/CFBI
+
 **Video Object Segmentation with Episodic Graph Memory Networks**
 
 - 论文：https://arxiv.org/abs/2007.07020
