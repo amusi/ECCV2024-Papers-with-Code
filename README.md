@@ -16,7 +16,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [NAS](#NAS)
 - [3D点云（分类/分割/配准/补全等）](#3D-PointCloud)
 - [Re-ID](#Re-ID)
-- [显著性检测](#Saliency)
+- [显著性检测（SOD）](#Saliency)
 - [模型压缩（剪枝/知识蒸馏等）](#Model-Compression)
 - [视频理解/行为识别/行为检测](#Action-Recognition)
 - [深度估计](#Depth-Estimation)
@@ -295,7 +295,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Saliency"></a>
 
-# 显著性检测
+# 显著性检测（SOD）
+
+**A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection**
+
+- 论文：https://arxiv.org/abs/2007.06811
+- 代码：https://github.com/Xiaoqi-Zhao-DLUT/DANet-RGBD-Saliency
 
 **Cross-Modal Weighting Network for RGB-D Salient Object Detection**
 
