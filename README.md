@@ -127,7 +127,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2007.08856
 - 代码：https://github.com/happinesslz/EPNet
 
 <a name="Video-Object-Detection"></a>
