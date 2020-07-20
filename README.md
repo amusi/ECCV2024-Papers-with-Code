@@ -144,6 +144,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild**
+
+- 主页：https://lttm.dei.unipd.it/paper_data/GMNet/
+- 论文：https://arxiv.org/abs/2007.09073
+- 代码：https://github.com/LTTM/GMNet
+
 **SegFix: Model-Agnostic Boundary Refinement for Segmentation**
 
 - 论文：https://arxiv.org/abs/2007.04269
@@ -153,8 +159,8 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation**
 
 - Oral
+- 论文：https://arxiv.org/abs/2007.01947
 - 代码：https://github.com/GuoleiSun/MCIS_wsss
-- 论文下载链接：https://arxiv.org/abs/2007.01947
 
  **Improving Semantic Segmentation via Decoupled Body and Edge Supervision**
 
