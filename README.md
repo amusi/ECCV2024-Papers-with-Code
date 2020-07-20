@@ -19,6 +19,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [显著性检测（SOD）](#Saliency)
 - [模型压缩（剪枝/知识蒸馏等）](#Model-Compression)
 - [视频理解/行为识别/行为检测](#Action-Recognition)
+- [特征点检测/描述符](#Feature)
 - [深度估计](#Depth-Estimation)
 - [超分辨率](#Super-Resolution)
 - [去模糊](#Deblurring)
@@ -370,6 +371,18 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2004.07485
 
 - 代码：https://github.com/MVIG-SJTU/AlphAction 
+
+<a name="Feature"></a>
+
+# 特征点检测/描述符
+
+**Online Invariance Selection for Local Feature Descriptors**
+
+- Oral
+
+- 论文：https://arxiv.org/abs/2007.08988
+
+- 代码：https://github.com/rpautrat/LISRD
 
 <a name="Depth-Estimation"></a>
 
