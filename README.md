@@ -366,6 +366,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频理解/行为识别/行为检测
 
+**Context-Aware RCNN: A Baseline for Action Detection in Videos**
+
+- 论文：https://arxiv.org/abs/2007.09861
+
+- 代码：https://github.com/MCG-NJU/CRCNN-Action
+
 **Actions as Moving Points**
 
 - 论文：https://arxiv.org/abs/2001.04608
