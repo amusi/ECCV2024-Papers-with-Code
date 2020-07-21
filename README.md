@@ -23,7 +23,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [深度估计](#Depth-Estimation)
 - [超分辨率](#Super-Resolution)
 - [去模糊](#Deblurring)
-- [图像补全](#Image-Inpainting)
+- [图像/视频修复(补全)](#Image-Video-Inpainting)
 - [图像检索](#Image-Retrieval)
 - [车道线检测](#Lane-Detection)
 - [轨迹预测](#TP)
@@ -443,9 +443,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2007.01769
 - 代码：暂无（即将出来）
 
-<a name="Image-Inpainting"></a>
+<a name="Image-Video-Inpainting"></a>
 
-# 图像补全
+# 图像/视频修复(补全)
+
+**Learning Joint Spatial-Temporal Transformations for Video Inpainting**
+
+- 论文：https://arxiv.org/abs/2007.10247
+
+- 代码：https://github.com/researchmm/STTN
 
 **Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations**
 
