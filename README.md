@@ -126,6 +126,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**Pillar-based Object Detection for Autonomous Driving**
+
+- 论文：https://arxiv.org/abs/2007.10323
+- 代码：https://github.com/WangYueFt/pillar-od
+
 **EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.08856
@@ -405,7 +410,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Learning with Privileged Information for Efficient Image Super-Resolution**
 
 - 主页：https://cvlab.yonsei.ac.kr/projects/PISR/
-- 论文下载链接：https://arxiv.org/abs/2007.07524
+- 论文：https://arxiv.org/abs/2007.07524
 - 代码：https://github.com/cvlab-yonsei/PISR
 
 **Spatial-Angular Interaction for Light Field Image Super-Resolution**
@@ -444,7 +449,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Self-supervising Fine-grained Region Similarities for Large-scale Image Localization**
 
 - 主页：https://yxgeee.github.io/projects/sfrs
-- 论文下载链接：https://arxiv.org/abs/2006.03926
+- 论文：https://arxiv.org/abs/2006.03926
 
 - 代码：https://github.com/yxgeee/SFRS
 
