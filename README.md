@@ -299,6 +299,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Re-ID
 
+**Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification**
+
+- 论文：https://arxiv.org/abs/2007.10315
+- 代码：https://github.com/NVlabs/DG-Net-PP
+
 **Robust Re-Identification by Multiple Views Knowledge Distillation**
 
 - 论文：https://arxiv.org/abs/2007.04174
