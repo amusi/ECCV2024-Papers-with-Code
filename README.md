@@ -494,6 +494,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+**DanbooRegion: An Illustration Region Dataset**
+
+- 主页：https://lllyasviel.github.io/DanbooRegion/
+
+- 论文：https://lllyasviel.github.io/DanbooRegion/paper/paper.pdf
+
+- 数据集：https://github.com/lllyasviel/DanbooRegion
+
 **Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
 
 - Oral
