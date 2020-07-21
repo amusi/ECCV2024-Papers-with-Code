@@ -170,7 +170,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
  **Improving Semantic Segmentation via Decoupled Body and Edge Supervision**
 
-- 论文：https://zhouchenlin.github.io/Publications/2020-ECCV-Semantic.pdf
+- 论文：https://arxiv.org/abs/2007.10035
 
 - 代码：https://github.com/lxtGH/DecoupleSegNets
 
