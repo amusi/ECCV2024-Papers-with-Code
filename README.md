@@ -81,6 +81,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
+
+- 论文：https://arxiv.org/abs/2007.09584
+
+- 代码：https://github.com/clobotics/piou
+
+- 数据集：https://github.com/clobotics/piou
+
 **Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer**
 
 - 论文：https://arxiv.org/abs/2007.07986
@@ -499,6 +507,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
+
+- 论文：https://arxiv.org/abs/2007.09584
+
+- 代码：https://github.com/clobotics/piou
+
+- 数据集：https://github.com/clobotics/piou
 
 **DanbooRegion: An Illustration Region Dataset**
 
