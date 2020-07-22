@@ -29,6 +29,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [图像检索](#Image-Retrieval)
 - [车道线检测](#Lane-Detection)
 - [轨迹预测](#TP)
+- [线段检测](#Line-Detection)
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -531,6 +532,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2004.02022
 - 代码：https://github.com/JunweiLiang/Multiverse
+
+<a name="Line-Detection"></a>
+
+# 线段检测
+
+**Deep Hough-Transform Line Priors**
+
+- 论文：https://arxiv.org/abs/2007.09493
+
+- 代码：https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors
 
 <a name="Datasets"></a>
 
