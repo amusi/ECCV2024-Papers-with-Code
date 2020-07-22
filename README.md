@@ -19,6 +19,8 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [显著性检测（SOD）](#Saliency)
 - [模型压缩（剪枝/知识蒸馏等）](#Model-Compression)
 - [视频理解/行为识别/行为检测](#Action-Recognition)
+- [场景文本检测](#Scene-Text-Detection)
+- [场景文本识别](#Scene-Text-Recognition)
 - [特征点检测/描述符](#Feature)
 - [深度估计](#Depth-Estimation)
 - [超分辨率](#Super-Resolution)
@@ -395,6 +397,26 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2004.07485
 
 - 代码：https://github.com/MVIG-SJTU/AlphAction 
+
+<a name="Scene-Text-Detection"></a>
+
+# 场景文本检测
+
+**Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting**
+
+- 论文：https://arxiv.org/abs/2007.09482
+
+- 代码：https://github.com/MhLiao/MaskTextSpotterV3
+
+<a name="Scene-Text-Recognition"></a>
+
+# 场景文本识别
+
+**Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting**
+
+- 论文：https://arxiv.org/abs/2007.09482
+
+- 代码：https://github.com/MhLiao/MaskTextSpotterV3
 
 <a name="Feature"></a>
 
