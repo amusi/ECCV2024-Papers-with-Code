@@ -90,6 +90,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**Multi-Scale Positive Sample Refinement for Few-Shot Object Detection**
+
+- 论文：https://arxiv.org/abs/2007.09384
+
+- 代码：https://github.com/jiaxi-wu/MPSR
+
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
 
 - 论文：https://arxiv.org/abs/2007.09584
