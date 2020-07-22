@@ -544,6 +544,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**A Generic Visualization Approach for Convolutional Neural Networks**
+
+- 论文：https://arxiv.org/abs/2007.09748
+
+- 代码：https://github.com/ahmdtaha/constrained_attention_filter
+
 **Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches**
 
 - 主页：https://williamyang1991.github.io/projects/ECCV2020
