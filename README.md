@@ -37,6 +37,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # CNN
 
+**Feature Pyramid Transformer**
+
+- 论文：https://arxiv.org/abs/2007.09451
+
+- 代码：https://github.com/ZHANGDONG-NJUST/FPT
+
 **Dynamic Group Convolution for Accelerating Convolutional Neural Networks**
 
 - 论文：https://arxiv.org/abs/2007.04242
