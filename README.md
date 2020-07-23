@@ -91,6 +91,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**BorderDet: Border Feature for Dense Object Detection**
+
+- 论文：https://arxiv.org/abs/2007.11056
+
+- 代码：https://github.com/Megvii-BaseDetection/BorderDet
+- 中文解读：https://zhuanlan.zhihu.com/p/163044323
+
 **Multi-Scale Positive Sample Refinement for Few-Shot Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.09384
