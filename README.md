@@ -15,6 +15,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [GAN](#GAN)
 - [NAS](#NAS)
 - [3D点云（分类/分割/配准/补全等）](#3D-PointCloud)
+- [人脸（检测/识别/解析等）](#Face)
 - [Re-ID](#Re-ID)
 - [显著性检测（SOD）](#Saliency)
 - [模型压缩（剪枝/知识蒸馏等）](#Model-Compression)
@@ -317,6 +318,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2007.05361
 
 - 代码：https://github.com/fpthink/PDGN
+
+<a name="Face"></a>
+
+# 人脸（检测/识别/解析等
+
+**Edge-aware Graph Representation Learning and Reasoning for Face Parsing**
+
+- 论文：https://arxiv.org/abs/2007.11240
+
+- 代码：https://github.com/tegusi/EAGRNet
 
 <a name="Re-ID"></a>
 
