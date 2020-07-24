@@ -633,6 +633,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets**
+
+- 论文：https://arxiv.org/abs/2007.09654
+- 代码：https://github.com/wutong16/DistributionBalancedLoss
+
 **A Generic Visualization Approach for Convolutional Neural Networks**
 
 - 论文：https://arxiv.org/abs/2007.09748
