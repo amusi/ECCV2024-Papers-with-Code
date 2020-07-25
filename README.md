@@ -24,6 +24,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [场景文本识别](#Scene-Text-Recognition)
 - [特征点检测/描述符](#Feature)
 - [深度估计](#Depth-Estimation)
+- [深度补全](#Depth-Completion)
 - [超分辨率](#Super-Resolution)
 - [去模糊](#Deblurring)
 - [图像/视频修复(补全)](#Image-Video-Inpainting)
@@ -484,6 +485,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2007.06936
 
 - 代码：https://github.com/ifnspaml/SGDepth
+
+<a name="Depth-Completion"></a>
+
+# 深度补全
+
+**Non-Local Spatial Propagation Network for Depth Completion**
+
+- 论文：https://arxiv.org/abs/2007.10042
+- 代码：https://github.com/zzangjinsun/NLSPN_ECCV20
 
 <a name="Super-Resolution"></a>
 
