@@ -346,6 +346,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Re-ID
 
+**Temporal Complementary Learning for Video Person Re-Identification**
+
+论文下载链接：https://arxiv.org/abs/2007.09357
+
+代码：https://github.com/blue-blue272/VideoReID-TCLNet
+
 **Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification**
 
 - 论文：https://arxiv.org/abs/2007.10315
