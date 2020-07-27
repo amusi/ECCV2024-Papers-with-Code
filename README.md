@@ -342,7 +342,17 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Face"></a>
 
-# 人脸（检测/识别/解析等
+# 人脸（检测/识别/解析等）
+
+## 人脸活体检测
+
+**CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations**
+
+- 论文：https://arxiv.org/abs/2007.12342
+
+- 数据集：https://github.com/Davidzhangyuanhan/CelebA-Spoof
+
+## 人脸解析
 
 **Edge-aware Graph Representation Learning and Reasoning for Face Parsing**
 
@@ -618,6 +628,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations**
+
+- 论文：https://arxiv.org/abs/2007.12342
+
+- 数据集：https://github.com/Davidzhangyuanhan/CelebA-Spoof
 
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
 
