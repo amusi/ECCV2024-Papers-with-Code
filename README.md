@@ -30,6 +30,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [图像/视频修复(补全)](#Image-Video-Inpainting)
 - [图像检索](#Image-Retrieval)
 - [光流估计](#Optical-Flow-Estimation)
+- [视频插帧](#Video-Interpolation)
 - [车道线检测](#Lane-Detection)
 - [轨迹预测](#TP)
 - [线段检测](#Line-Detection)
@@ -567,6 +568,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2007.09319
 - 代码：https://github.com/twhui/LiteFlowNet3
+
+<a name="Video-Interpolation"></a>
+
+# 视频插帧
+
+**BMBC: Bilateral Motion Estimation with Bilateral Cost Volume for Video Interpolation**
+
+- 论文：https://arxiv.org/abs/2007.12622
+
+- 代码：https://github.com/JunHeum/BMBC
 
 <a name="Lane-Detection"></a>
 
