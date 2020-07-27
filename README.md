@@ -216,6 +216,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 实例分割
 
+**Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation**
+
+- 论文：https://arxiv.org/abs/2007.12387
+
+- 代码：https://github.com/fanq15/CPMask
+
  **Boundary-preserving Mask R-CNN**
 
 - 论文：https://arxiv.org/abs/2007.08921
