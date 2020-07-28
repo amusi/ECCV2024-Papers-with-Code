@@ -629,6 +629,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+**Reconstructing NBA Players**
+
+- 主页：http://grail.cs.washington.edu/projects/nba_players/
+
+- 论文：https://arxiv.org/abs/2007.13303
+
 **CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations**
 
 - 论文：https://arxiv.org/abs/2007.12342
