@@ -99,6 +99,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**Corner Proposal Network for Anchor-free, Two-stage Object Detection**
+
+- 论文：https://arxiv.org/abs/2007.13816
+
+- 代码：https://github.com/Duankaiwen/CPNDet
+
 **BorderDet: Border Feature for Dense Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.11056
