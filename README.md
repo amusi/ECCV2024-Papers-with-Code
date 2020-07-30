@@ -223,6 +223,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 实例分割
 
+**SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation**
+
+- 论文：https://arxiv.org/abs/2007.14772
+
+- 代码：https://github.com/JialeCao001/SipMask
+
 **Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation**
 
 - 论文：https://arxiv.org/abs/2007.12387
