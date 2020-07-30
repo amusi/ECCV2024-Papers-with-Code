@@ -281,6 +281,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 多目标跟踪
 
+**Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking**
+
+- 论文：https://arxiv.org/abs/2007.14557
+
+- 代码：https://github.com/pjl1995/CTracker
+
 **Ocean: Object-aware Anchor-Free Tracking**
 
 - 论文：https://arxiv.org/abs/2006.10721
@@ -707,9 +713,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **AiR: Attention with Reasoning Capability**
 
-论文：https://arxiv.org/abs/2007.14419
+- Oral
 
-代码：https://github.com/szzexpoi/AiR
+- 论文：https://arxiv.org/abs/2007.14419
+
+- 代码：https://github.com/szzexpoi/AiR
 
 **Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets**
 
