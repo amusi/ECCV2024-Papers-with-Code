@@ -23,6 +23,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
 - [特征点检测/描述符](#Feature)
+- [姿态估计](#Pose-Estimation)
 - [深度估计](#Depth-Estimation)
 - [深度补全](#Depth-Completion)
 - [超分辨率](#Super-Resolution)
@@ -513,6 +514,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2007.08988
 
 - 代码：https://github.com/rpautrat/LISRD
+
+<a name="Pose-Estimation"></a>
+
+# 姿态估计
+
+**Key Frame Proposal Network for Efficient Pose Estimation in Videos**
+
+- 论文：https://arxiv.org/abs/2007.15217
+
+- 代码：https://github.com/Yuexiaoxi10/Key-Frame-Proposal-Network-for-Efficient-Pose-Estimation-in-Videos
 
 <a name="Depth-Estimation"></a>
 
