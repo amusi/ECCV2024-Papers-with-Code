@@ -311,6 +311,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # GAN
 
+**Rewriting a Deep Generative Model**
+
+- 论文：https://arxiv.org/abs/2007.15646
+
+- 代码：https://github.com/davidbau/rewriting
+
 **Contrastive Learning for Unpaired Image-to-Image Translation**
 
 - 论文：https://arxiv.org/abs/2007.15651
