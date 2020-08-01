@@ -507,6 +507,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 特征点检测/描述符
 
+**Learning and aggregating deep local descriptors for instance-level recognition**
+
+- 论文：https://arxiv.org/abs/2007.13172
+
+- 代码：https://github.com/gtolias/how
+
 **Online Invariance Selection for Local Feature Descriptors**
 
 - Oral
