@@ -733,6 +733,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild**
+
+- 主页：https://jasonyzhang.com/phosa/
+- 论文下载：https://arxiv.org/abs/2007.15649
+- 代码：https://github.com/jasonyzhang/phosa
+
 **AiR: Attention with Reasoning Capability**
 
 - Oral
