@@ -749,6 +749,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Consensus-Aware Visual-Semantic Embedding for Image-Text Matching**
+
+- 论文：https://arxiv.org/abs/2007.08883
+- 代码：https://github.com/BruceW91/CVSE 
+
 **Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild**
 
 - 主页：https://jasonyzhang.com/phosa/
