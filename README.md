@@ -26,6 +26,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [姿态估计](#Pose-Estimation)
 - [深度估计](#Depth-Estimation)
 - [深度补全](#Depth-Completion)
+- [域泛化](#Domain-Generalization)
 - [超分辨率](#Super-Resolution)
 - [去模糊](#Deblurring)
 - [图像/视频修复(补全)](#Image-Video-Inpainting)
@@ -557,6 +558,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2007.10042
 - 代码：https://github.com/zzangjinsun/NLSPN_ECCV20
+
+<a name="Domain-Generalization"></a>
+
+# 域泛化
+
+**Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization**
+
+- 论文：https://arxiv.org/abs/2007.09316
+- 代码：https://github.com/EmmaW8/EISNet 
 
 <a name="Super-Resolution"></a>
 
