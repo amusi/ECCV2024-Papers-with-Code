@@ -197,6 +197,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation**
+
+- 论文：https://arxiv.org/abs/2007.09183
+
+- 代码：https://github.com/charlesCXK/RGBD_Semantic_Segmentation_PyTorch
+
 **GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild**
 
 - 主页：https://lttm.dei.unipd.it/paper_data/GMNet/
