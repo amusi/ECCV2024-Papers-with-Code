@@ -386,6 +386,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 人脸（检测/识别/解析等）
 
+## 3D人脸重建
+
+**Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency**
+
+- 论文：https://arxiv.org/abs/2007.12494
+- 代码：https://github.com/jiaxiangshang/MGCNet
+
 ## 人脸活体检测
 
 **CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations**
