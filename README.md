@@ -544,6 +544,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 单目深度估计
 
+**P2Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation**
+
+- 论文：https://arxiv.org/abs/2007.07696
+- 代码：https://github.com/svip-lab/Indoor-SfMLearner
+
 **Self-Supervised Monocular Depth Estimation: Solving the Dynamic Object Problem by Semantic Guidance**
 
 - 论文：https://arxiv.org/abs/2007.06936
