@@ -36,6 +36,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [车道线检测](#Lane-Detection)
 - [轨迹预测](#TP)
 - [线段检测](#Line-Detection)
+- [眼动追踪](#Eye-Tracking)
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -704,9 +705,23 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors
 
+<a name="Eye-Tracking"></a>
+
+# 眼动追踪
+
+**Towards End-to-end Video-based Eye-Tracking**
+
+- 主页：https://ait.ethz.ch/projects/2020/EVE/
+- 论文：https://arxiv.org/abs/2007.13120
+
 <a name="Datasets"></a>
 
 # 数据集
+
+**Towards End-to-end Video-based Eye-Tracking**
+
+- 主页：https://ait.ethz.ch/projects/2020/EVE/
+- 论文：https://arxiv.org/abs/2007.13120
 
 **Reconstructing NBA Players**
 
