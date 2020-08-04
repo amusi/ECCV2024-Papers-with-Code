@@ -204,6 +204,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**Tensor Low-Rank Reconstruction for Semantic Segmentation**
+
+- 论文：https://arxiv.org/abs/2008.00490
+
+- 代码：https://github.com/CWanli/RecoNet
+
 **Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation**
 
 - 论文：https://arxiv.org/abs/2007.09183
