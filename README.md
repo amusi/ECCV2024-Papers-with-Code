@@ -29,6 +29,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [域泛化](#Domain-Generalization)
 - [超分辨率](#Super-Resolution)
 - [去模糊](#Deblurring)
+- [去雨](#Deraining)
 - [图像/视频修复(补全)](#Image-Video-Inpainting)
 - [图像检索](#Image-Retrieval)
 - [光流估计](#Optical-Flow-Estimation)
@@ -622,6 +623,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://arxiv.org/abs/2007.01769
 - 代码：暂无（即将出来）
+
+<a name="Deraining"></a>
+
+# 去雨
+
+**Rethinking Image Deraining via Rain Streaks and Vapors**
+
+- 论文：https://arxiv.org/abs/2008.00823
+
+- 代码：https://github.com/yluestc/derain
 
 <a name="Image-Video-Inpainting"></a>
 
