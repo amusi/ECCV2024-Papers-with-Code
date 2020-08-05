@@ -621,6 +621,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2005.05650
 - 代码：https://github.com/pkuxmq/Invertible-Image-Rescaling
 
+## 视频超分辨率
+
+**Video Super-Resolution with Recurrent Structure-Detail Network**
+
+- 论文：https://arxiv.org/abs/2008.00455
+
+- 代码：https://github.com/junpan19/RSDN
+
 <a name="Deblurring"></a>
 
 # 去模糊
