@@ -812,6 +812,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions**
+
+- 论文：暂无
+- 代码：https://github.com/xh-liu/Open-Edit
+- Video：https://youtu.be/8E3bwvjCHYE
+
 **Consensus-Aware Visual-Semantic Embedding for Image-Text Matching**
 
 - 论文：https://arxiv.org/abs/2007.08883
