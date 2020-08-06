@@ -691,6 +691,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 光流估计
 
+**RAFT: Recurrent All-Pairs Field Transforms for Optical Flow**
+
+- 论文：https://arxiv.org/abs/2003.12039
+
+- 代码：https://github.com/princeton-vl/RAFT
+
 **LiteFlowNet3: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation**
 
 - 论文：https://arxiv.org/abs/2007.09319
