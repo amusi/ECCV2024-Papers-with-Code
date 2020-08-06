@@ -365,6 +365,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D点云（分类/分割/配准/补全等）
 
+**AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds**
+
+- 论文：https://arxiv.org/abs/1912.00461
+
+- 代码：https://github.com/ajhamdi/AdvPC
+
 **A Closer Look at Local Aggregation Operators in Point Cloud Analysis**
 
 - 论文：https://arxiv.org/abs/2007.01294
