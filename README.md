@@ -824,6 +824,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Funnel Activation for Visual Recognition**
+
+- 论文：https://arxiv.org/abs/2007.11824
+
+- 代码：https://github.com/megvii-model/FunnelAct
+
 **Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions**
 
 - 论文：暂无
