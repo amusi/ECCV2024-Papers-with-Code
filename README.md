@@ -605,6 +605,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 图像超分辨率
 
+**Component Divide-and-Conquer for Real-World Image Super-Resolution**
+
+- 论文：https://arxiv.org/abs/2008.01928
+
+- 代码和数据集：https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution
+
 **Learning with Privileged Information for Efficient Image Super-Resolution**
 
 - 主页：https://cvlab.yonsei.ac.kr/projects/PISR/
@@ -742,6 +748,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**Component Divide-and-Conquer for Real-World Image Super-Resolution**
+
+- 论文：https://arxiv.org/abs/2008.01928
+
+- 代码和数据集：https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution
 
 **Towards End-to-end Video-based Eye-Tracking**
 
