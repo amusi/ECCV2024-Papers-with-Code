@@ -686,6 +686,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 图像检索
 
+**SOLAR: Second-Order Loss and Attention for Image Retrieval**
+
+- 论文：https://arxiv.org/abs/2001.08972
+
+- 代码：https://github.com/tonyngjichun/SOLAR
+
 **Self-supervising Fine-grained Region Similarities for Large-scale Image Localization**
 
 - 主页：https://yxgeee.github.io/projects/sfrs
