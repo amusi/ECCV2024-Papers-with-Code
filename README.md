@@ -407,6 +407,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 人脸（检测/识别/解析等）
 
+## 人脸识别
+
+**Explainable Face Recognition**
+
+- 论文：https://arxiv.org/abs/2008.00916
+
+- 主页：https://stresearch.github.io/xfr/
+- 代码：https://github.com/stresearch/xfr
+
 ## 3D人脸重建
 
 **Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency**
