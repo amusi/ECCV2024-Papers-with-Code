@@ -37,6 +37,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [车道线检测](#Lane-Detection)
 - [轨迹预测](#TP)
 - [线段检测](#Line-Detection)
+- [视线估计](#Gaze-Estimation)
 - [眼动追踪](#Eye-Tracking)
 - [数据集](#Datasets)
 - [其他](#Others)
@@ -775,6 +776,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors
 
+<a name="Gaze-Estimation"></a>
+
+# 视线估计
+
+**ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation**
+
+- 主页：https://ait.ethz.ch/projects/2020/ETH-XGaze
+
+- 论文：https://arxiv.org/abs/2007.15837
+
 <a name="Eye-Tracking"></a>
 
 # 眼动追踪
@@ -787,6 +798,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation**
+
+- 主页：https://ait.ethz.ch/projects/2020/ETH-XGaze
+
+- 论文：https://arxiv.org/abs/2007.15837
 
 **LEMMA: A Multi-view Dataset for Learning Multi-agent Multi-task Activities**
 
