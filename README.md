@@ -506,6 +506,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频理解/行为识别/行为检测
 
+**LEMMA: A Multi-view Dataset for Learning Multi-agent Multi-task Activities**
+
+- 主页：https://sites.google.com/view/lemma-activity
+
+- 论文：https://arxiv.org/abs/2007.15781
+
+- 数据集：https://sites.google.com/view/lemma-activity/home/dataset
+- 代码：https://github.com/Buzz-Beater/LEMMA
+
 **AR-Net: Adaptive Frame Resolution for Efficient Action Recognition**
 
 - 主页：https://mengyuest.github.io/AR-Net/
@@ -778,6 +787,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**LEMMA: A Multi-view Dataset for Learning Multi-agent Multi-task Activities**
+
+- 主页：https://sites.google.com/view/lemma-activity
+
+- 论文：https://arxiv.org/abs/2007.15781
+
+- 数据集：https://sites.google.com/view/lemma-activity/home/dataset
+- 代码：https://github.com/Buzz-Beater/LEMMA
 
 **Component Divide-and-Conquer for Real-World Image Super-Resolution**
 
