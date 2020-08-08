@@ -506,6 +506,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频理解/行为识别/行为检测
 
+**AR-Net: Adaptive Frame Resolution for Efficient Action Recognition**
+
+- 主页：https://mengyuest.github.io/AR-Net/
+- 论文：https://arxiv.org/abs/2007.15796
+- 代码：https://github.com/mengyuest/AR-Net
+
 **Context-Aware RCNN: A Baseline for Action Detection in Videos**
 
 - 论文：https://arxiv.org/abs/2007.09861
