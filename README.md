@@ -819,6 +819,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+**From Shadow Segmentation to Shadow Removal**
+
+论文：http://xxx.itp.ac.cn/abs/2008.00267
+
+代码和数据集：https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html
+
 **ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation**
 
 - 主页：https://ait.ethz.ch/projects/2020/ETH-XGaze
@@ -908,6 +914,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Others"></a>
 
 # 其他
+
+**From Shadow Segmentation to Shadow Removal**
+
+论文：http://xxx.itp.ac.cn/abs/2008.00267
+
+代码和数据集：https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html
 
 **Funnel Activation for Visual Recognition**
 
