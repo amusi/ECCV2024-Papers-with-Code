@@ -31,6 +31,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [去模糊](#Deblurring)
 - [去雨](#Deraining)
 - [图像/视频修复(补全)](#Image-Video-Inpainting)
+- [三维重建](#3D-Reconstruction)
 - [图像检索](#Image-Retrieval)
 - [光流估计](#Optical-Flow-Estimation)
 - [视频插帧](#Video-Interpolation)
@@ -707,7 +708,17 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：暂无
 - 代码：https://github.com/KumapowerLIU/ECCV2020oralRethinking-Image-Inpainting-via-a-Mutual-Encoder-Decoder-with-Feature-Equalizations
 
- <a name="Image-Retrieval"></a>
+ <a name="3D-Reconstruction"></a>
+
+# 三维重建
+
+**Stochastic Bundle Adjustment for Efficient and Scalable 3D Reconstruction**
+
+- 论文：http://xxx.itp.ac.cn/abs/2008.00446
+
+- 代码：https://github.com/zlthinker/STBA
+
+<a name="Image-Retrieval"></a>
 
 # 图像检索
 
