@@ -32,6 +32,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [去雨](#Deraining)
 - [图像/视频修复(补全)](#Image-Video-Inpainting)
 - [三维重建](#3D-Reconstruction)
+- [图像描述](#Image-Caption)
 - [图像检索](#Image-Retrieval)
 - [光流估计](#Optical-Flow-Estimation)
 - [视频插帧](#Video-Interpolation)
@@ -718,6 +719,17 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/zlthinker/STBA
 
+<a name="Image-Caption"></a>
+
+# 图像描述
+
+**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards**
+
+- 论文：https://arxiv.org/abs/2008.02693
+
+- 代码： https://github.com/xuewyang/Fashion_Captioning 
+- 数据集：https://drive.google.com/drive/folders/1J6SZOt_WFwZToX1Jf7QiXzFVwt23lGwW?usp=sharing
+
 <a name="Image-Retrieval"></a>
 
 # 图像检索
@@ -819,17 +831,18 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+**Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards**
+
+- 论文：https://arxiv.org/abs/2008.02693
+
+- 代码： https://github.com/xuewyang/Fashion_Captioning 
+- 数据集：https://drive.google.com/drive/folders/1J6SZOt_WFwZToX1Jf7QiXzFVwt23lGwW?usp=sharing
+
 **From Shadow Segmentation to Shadow Removal**
 
-论文：http://xxx.itp.ac.cn/abs/2008.00267
+- 论文：http://xxx.itp.ac.cn/abs/2008.00267
 
-代码和数据集：https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html
-
-**ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation**
-
-- 主页：https://ait.ethz.ch/projects/2020/ETH-XGaze
-
-- 论文：https://arxiv.org/abs/2007.15837
+- 数据集：https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html
 
 **LEMMA: A Multi-view Dataset for Learning Multi-agent Multi-task Activities**
 
