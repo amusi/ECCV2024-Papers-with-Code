@@ -915,6 +915,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems**
+
+- 论文：https://arxiv.org/abs/2008.03043
+- 代码：https://github.com/CalayZhou/MBNet
+- Demo：https://www.bilibili.com/video/BV1Hi4y137aS
+
 **From Shadow Segmentation to Shadow Removal**
 
 论文：http://xxx.itp.ac.cn/abs/2008.00267
