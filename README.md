@@ -183,6 +183,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 3D目标检测
 
+**Rethinking Pseudo-LiDAR Representation**
+
+- 论文：https://arxiv.org/abs/2008.04582
+
+- 代码：https://github.com/xinzhuma/patchnet
+
 **Pillar-based Object Detection for Autonomous Driving**
 
 - 论文：https://arxiv.org/abs/2007.10323
