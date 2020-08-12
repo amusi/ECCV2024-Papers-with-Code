@@ -613,6 +613,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 深度估计
 
+**Learning Stereo from Single Images**
+
+- 论文：https://arxiv.org/abs/2008.01484
+- 代码：https://github.com/nianticlabs/stereo-from-mono/
+
 ## 单目深度估计
 
 **P2Net: Patch-match and Plane-regularization for Unsupervised Indoor Depth Estimation**
