@@ -31,6 +31,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [去模糊](#Deblurring)
 - [去雨](#Deraining)
 - [图像/视频修复(补全)](#Image-Video-Inpainting)
+- [风格迁移](#Style-Transfer)
 - [三维重建](#3D-Reconstruction)
 - [图像描述](#Image-Caption)
 - [图像检索](#Image-Retrieval)
@@ -719,6 +720,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - Oral
 - 论文：暂无
 - 代码：https://github.com/KumapowerLIU/ECCV2020oralRethinking-Image-Inpainting-via-a-Mutual-Encoder-Decoder-with-Feature-Equalizations
+
+ <a name="Style-Transfer"></a>
+
+# 风格迁移
+
+**Domain-Specific Mappings for Generative Adversarial Style Transfer**
+
+- 主页：https://acht7111020.github.io/DSMAP-demo/
+- 论文：http://xxx.itp.ac.cn/abs/2008.02198
+- 代码：https://github.com/acht7111020/DSMAP
 
  <a name="3D-Reconstruction"></a>
 
