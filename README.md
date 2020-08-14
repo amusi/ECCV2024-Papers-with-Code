@@ -10,6 +10,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视频目标检测](#Video-Object-Detection)
 - [语义分割](#Semantic-Segmentation)
 - [实例分割](#Instance-Segmentation)
+- [全景分割](#Panoptic-Segmentation)
 - [视频目标分割](#VOS)
 - [单/多目标跟踪](#Object-Tracking)
 - [GAN](#GAN)
@@ -284,6 +285,17 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 代码：https://github.com/WXinlong/SOLO
 
 - 知乎话题：https://www.zhihu.com/question/360594484
+
+<a name="Panoptic-Segmentation"></a>
+
+# 全景分割
+
+**Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation**
+
+- 论文：https://arxiv.org/abs/2003.07853
+
+- 代码：https://github.com/csrhddlam/axial-deeplab
+- 视频：https://youtu.be/-iAXF-vibdE
 
 <a name="VOS"></a>
 
