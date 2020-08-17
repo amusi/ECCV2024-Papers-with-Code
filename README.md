@@ -747,6 +747,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 三维重建
 
+**3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View**
+
+- 主页：https://marcbadger.github.io/avian-mesh/
+- 论文下载链接：https://arxiv.org/abs/2008.06133
+- 代码：https://github.com/marcbadger/avian-mesh
+- 数据集：https://drive.google.com/file/d/1vyXYIJIo9jneIqC7lowB4GVi17rjztjn/view?usp=sharing
+
 **Stochastic Bundle Adjustment for Efficient and Scalable 3D Reconstruction**
 
 - 论文：http://xxx.itp.ac.cn/abs/2008.00446
@@ -864,6 +871,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View**
+
+- 主页：https://marcbadger.github.io/avian-mesh/
+- 论文下载链接：https://arxiv.org/abs/2008.06133
+- 代码：https://github.com/marcbadger/avian-mesh
+- 数据集：https://drive.google.com/file/d/1vyXYIJIo9jneIqC7lowB4GVi17rjztjn/view?usp=sharing
 
 **Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards**
 
