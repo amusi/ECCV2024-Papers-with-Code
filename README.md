@@ -108,6 +108,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**Every Pixel Matters: Center-aware Feature Alignment for Domain Adaptive Object Detector**
+
+- 主页：https://chengchunhsu.github.io/EveryPixelMatters/
+- 论文：https://arxiv.org/abs/2008.08574
+- 代码：https://github.com/chengchunhsu/EveryPixelMatters
+
 **Dense RepPoints: Representing Visual Objects with Dense Point Sets**
 
 - 论文：https://arxiv.org/abs/1912.11473
