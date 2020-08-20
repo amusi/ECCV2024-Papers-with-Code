@@ -502,6 +502,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 显著性检测（SOD）
 
+**Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection**
+
+- 论文：http://xxx.itp.ac.cn/abs/2008.07064
+
+- 代码：https://github.com/ShuhanChen/PGAR_ECCV20
+
 **Suppress and Balance: A Simple Gated Network for Salient Object Detection**
 
 - Oral
