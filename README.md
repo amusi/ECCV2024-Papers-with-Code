@@ -1018,6 +1018,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition**
+
+- 论文：https://arxiv.org/abs/2003.08526
+
+- 代码：https://github.com/gyhandy/Pose-Augmentation
+
 **Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems**
 
 - 论文：https://arxiv.org/abs/2008.03043
