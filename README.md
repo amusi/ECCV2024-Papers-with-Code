@@ -440,6 +440,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 人脸（检测/识别/解析等）
 
+## 人脸检测
+
+**ProgressFace: Scale-Aware Progressive Learning for Face Detection**
+
+- 论文：http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510341.pdf
+- 代码：https://github.com/jiashu-zhu/ProgressFace
+
 ## 人脸识别
 
 **Explainable Face Recognition**
