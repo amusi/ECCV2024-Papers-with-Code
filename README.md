@@ -640,6 +640,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 姿态估计
 
+**Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose、**
+
+- 论文：https://arxiv.org/abs/2008.09047
+- 代码：https://github.com/hongsukchoi/Pose2Mesh_RELEASE
+
 **Key Frame Proposal Network for Efficient Pose Estimation in Videos**
 
 - 论文：https://arxiv.org/abs/2007.15217
