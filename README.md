@@ -330,6 +330,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 多目标跟踪
 
+**Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking**
+
+- 论文：https://arxiv.org/abs/2008.08826
+- 代码：https://github.com/shijieS/DMMN
+- 数据集：https://github.com/shijieS/OmniMOTDataset
+
 **Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking**
 
 - 论文：https://arxiv.org/abs/2007.14557
@@ -889,6 +895,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking**
+
+- 论文：https://arxiv.org/abs/2008.08826
+- 代码：https://github.com/shijieS/DMMN
+- 数据集：https://github.com/shijieS/OmniMOTDataset
 
 **3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View**
 
