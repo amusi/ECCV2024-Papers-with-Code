@@ -573,6 +573,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频理解/行为识别/行为检测
 
+**AssembleNet++: Assembling Modality Representations via Attention Connections**
+
+- 论文：https://arxiv.org/abs/2008.08072
+- 代码：https://sites.google.com/corp/view/assemblenet/
+
 **LEMMA: A Multi-view Dataset for Learning Multi-agent Multi-task Activities**
 
 - 主页：https://sites.google.com/view/lemma-activity
