@@ -665,8 +665,17 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Key Frame Proposal Network for Efficient Pose Estimation in Videos**
 
 - 论文：https://arxiv.org/abs/2007.15217
-
 - 代码：https://github.com/Yuexiaoxi10/Key-Frame-Proposal-Network-for-Efficient-Pose-Estimation-in-Videos
+
+## 6D位姿估计
+
+**CosyPose: Consistent multi-view multi-object 6D pose estimation**
+
+- 主页：https://www.di.ens.fr/willow/research/cosypose/
+
+- 论文：http://xxx.itp.ac.cn/abs/2008.08465
+
+- 代码：https://github.com/ylabbe/cosypose
 
 <a name="Depth-Estimation"></a>
 
