@@ -931,6 +931,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+**Detecting natural disasters, damage, and incidents in the wild**
+
+- 主页：http://incidentsdataset.csail.mit.edu/
+- 论文：https://arxiv.org/abs/2008.09188
+- 数据集：https://github.com/ethanweber/IncidentsDataset
+
 **Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking**
 
 - 论文：https://arxiv.org/abs/2008.08826
@@ -940,7 +946,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View**
 
 - 主页：https://marcbadger.github.io/avian-mesh/
-- 论文下载链接：https://arxiv.org/abs/2008.06133
+- 论文：https://arxiv.org/abs/2008.06133
 - 代码：https://github.com/marcbadger/avian-mesh
 - 数据集：https://drive.google.com/file/d/1vyXYIJIo9jneIqC7lowB4GVi17rjztjn/view?usp=sharing
 
