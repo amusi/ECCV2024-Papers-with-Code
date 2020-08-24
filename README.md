@@ -23,7 +23,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [视频理解/行为识别/行为检测](#Action-Recognition)
 - [场景文本检测](#Scene-Text-Detection)
 - [场景文本识别](#Scene-Text-Recognition)
-- [特征点检测/描述符](#Feature)
+- [特征点检测/描述符/匹配](#Feature)
 - [姿态估计](#Pose-Estimation)
 - [深度估计](#Depth-Estimation)
 - [深度补全](#Depth-Completion)
@@ -637,7 +637,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 <a name="Feature"></a>
 
-# 特征点检测/描述符
+# 特征点检测/描述符/匹配
 
 **Learning and aggregating deep local descriptors for instance-level recognition**
 
@@ -648,10 +648,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Online Invariance Selection for Local Feature Descriptors**
 
 - Oral
-
 - 论文：https://arxiv.org/abs/2007.08988
-
 - 代码：https://github.com/rpautrat/LISRD
+
+**Single-Image Depth Prediction Makes Feature Matching Easier**
+
+- 论文：https://arxiv.org/abs/2008.09497
+
+- 代码：http://www.github.com/nianticlabs/rectified-features
 
 <a name="Pose-Estimation"></a>
 
