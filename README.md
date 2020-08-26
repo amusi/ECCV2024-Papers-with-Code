@@ -876,6 +876,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 车道线检测
 
+**CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending**
+
+- 论文：https://arxiv.org/abs/2007.12147
+- 数据集：https://github.com/xbjxh/curvelanes
+
 **Ultra Fast Structure-aware Deep Lane Detection**
 
 - 论文：https://arxiv.org/abs/2004.11757
@@ -930,6 +935,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending**
+
+- 论文：https://arxiv.org/abs/2007.12147
+- 数据集：https://github.com/xbjxh/curvelanes
 
 **Detecting natural disasters, damage, and incidents in the wild**
 
