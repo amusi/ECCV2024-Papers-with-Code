@@ -221,6 +221,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 语义分割
 
+**SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection**
+
+- 主页：https://sites.google.com/view/sne-roadseg
+- 论文：https://arxiv.org/abs/2008.11351
+- 代码：https://github.com/hlwang1124/SNE-RoadSeg
+- 数据集：https://drive.google.com/file/d/1YnkqPmzxtjNfMi2B1gMy7LQa5Gnu-BsH/view
+
 **Tensor Low-Rank Reconstruction for Semantic Segmentation**
 
 - 论文：https://arxiv.org/abs/2008.00490
@@ -941,6 +948,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection**
+
+- 主页：https://sites.google.com/view/sne-roadseg
+- 论文：https://arxiv.org/abs/2008.11351
+- 代码：https://github.com/hlwang1124/SNE-RoadSeg
+- 数据集：https://drive.google.com/file/d/1YnkqPmzxtjNfMi2B1gMy7LQa5Gnu-BsH/view
 
 **CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending**
 
