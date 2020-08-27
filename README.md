@@ -495,6 +495,8 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # Re-ID
 
+## 行人重识别
+
 **Faster Person Re-Identification**
 
 - 论文：https://arxiv.org/abs/2008.06826
@@ -520,8 +522,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Multiple Expert Brainstorming for Domain Adaptive Person Re-identification**
 
 - 论文：https://arxiv.org/abs/2007.01546
-
 - 代码：https://github.com/YunpengZhai/MEB-Net
+
+## 车辆重识别
+
+**Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network**
+
+- 主页：http://media.ee.ntu.edu.tw/research/SPAN/
+
+- 论文：https://arxiv.org/abs/2008.11423
+- 代码：https://github.com/tsaishien-chen/SPAN
 
 <a name="Saliency"></a>
 
