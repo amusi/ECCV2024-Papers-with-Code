@@ -780,6 +780,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 图像/视频修复(补全)
 
+**NAS-DIP: Learning Deep Image Prior with Neural Architecture Search**
+
+- 主页：https://yunchunchen.github.io/NAS-DIP/
+- 论文：https://arxiv.org/abs/2008.11713
+- 代码：https://github.com/YunChunChen/NAS-DIP-pytorch
+
 **Learning Joint Spatial-Temporal Transformations for Video Inpainting**
 
 - 论文：https://arxiv.org/abs/2007.10247
@@ -809,7 +815,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View**
 
 - 主页：https://marcbadger.github.io/avian-mesh/
-- 论文下载链接：https://arxiv.org/abs/2008.06133
+- 论文：https://arxiv.org/abs/2008.06133
 - 代码：https://github.com/marcbadger/avian-mesh
 - 数据集：https://drive.google.com/file/d/1vyXYIJIo9jneIqC7lowB4GVi17rjztjn/view?usp=sharing
 
