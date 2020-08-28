@@ -690,6 +690,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 3D人体姿态估计
 
+**DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild**
+
+- 主页：https://europe.naverlabs.com/blog/dope-distillation-of-part-experts-for-whole-body-3d-pose-estimation-in-the-wild/
+
+- 论文：https://arxiv.org/abs/2008.09457
+
+- 代码：https://github.com/naver/dope
+  
+
 **SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation**
 
 - 主页：https://zju3dv.github.io/SMAP/
