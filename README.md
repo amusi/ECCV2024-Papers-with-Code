@@ -51,6 +51,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # CNN
 
+**Beyond Fixed Grid: Learning Geometric Image Representation with a Deformable Grid**
+
+- 主页：http://www.cs.toronto.edu/~jungao/def-grid/
+- 论文：http://xxx.itp.ac.cn/abs/2008.09269
+- 代码：https://github.com/fidler-lab/deformable-grid-release
+
  **WeightNet: Revisiting the Design Space of Weight Networks**
 
 - 论文：https://arxiv.org/abs/2007.11823
