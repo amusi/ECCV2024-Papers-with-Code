@@ -976,6 +976,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+**InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image**
+
+- 主页：https://mks0601.github.io/InterHand2.6M/
+- 论文：https://arxiv.org/abs/2008.09309
+- 代码：https://github.com/facebookresearch/InterHand2.6M
+  
+
 **SNE-RoadSeg: Incorporating Surface Normal Information into Semantic Segmentation for Accurate Freespace Detection**
 
 - 主页：https://sites.google.com/view/sne-roadseg
