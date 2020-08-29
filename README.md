@@ -65,7 +65,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Feature Pyramid Transformer**
 
 - 论文：https://arxiv.org/abs/2007.09451
-
 - 代码：https://github.com/ZHANGDONG-NJUST/FPT
 
 **Dynamic Group Convolution for Accelerating Convolutional Neural Networks**
@@ -76,7 +75,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Learning to Learn Parameterized Classification Networks for Scalable Input Images**
 
 - 论文：https://arxiv.org/abs/2007.06181
-
 - 代码：https://github.com/d-li14/SAN
 
 **Rethinking Bottleneck Structure for Efficient Mobile Network Design**
@@ -86,7 +84,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution**
 
-- 论文：Oral
 - 论文：https://arxiv.org/abs/1909.12978
 - 代码：https://github.com/taoyang1122/MutualNet
 
@@ -101,8 +98,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Learning to Learn Parameterized Classification Networks for Scalable Input Images**
 
-- 论文：暂无
-
+- 论文：http://arxiv.org/abs/2007.06181
 - 代码：https://github.com/d-li14/SAN
 
 **Learning To Classify Images Without Labels**
@@ -128,28 +124,23 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Corner Proposal Network for Anchor-free, Two-stage Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.13816
-
 - 代码：https://github.com/Duankaiwen/CPNDet
 
 **BorderDet: Border Feature for Dense Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.11056
-
 - 代码：https://github.com/Megvii-BaseDetection/BorderDet
 - 中文解读：https://zhuanlan.zhihu.com/p/163044323
 
 **Multi-Scale Positive Sample Refinement for Few-Shot Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.09384
-
 - 代码：https://github.com/jiaxi-wu/MPSR
 
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
 
 - 论文：https://arxiv.org/abs/2007.09584
-
 - 代码：https://github.com/clobotics/piou
-
 - 数据集：https://github.com/clobotics/piou
 
 **Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer**
@@ -170,7 +161,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **OS2D: One-Stage One-Shot Object Detection by Matching Anchor Features**
 
 - 论文：https://arxiv.org/abs/2003.06800
-
 - 代码：https://github.com/aosokin/os2d
 
 **End-to-End Object Detection with Transformers**
@@ -183,7 +173,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training**
 
 - 论文：https://arxiv.org/abs/2004.06002
-
 - 代码：https://github.com/hkzhang95/DynamicRCNN 
 
 ## 遥感旋转目标检测
@@ -200,7 +189,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Rethinking Pseudo-LiDAR Representation**
 
 - 论文：https://arxiv.org/abs/2008.04582
-
 - 代码：https://github.com/xinzhuma/patchnet
 
 **Pillar-based Object Detection for Autonomous Driving**
@@ -220,7 +208,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Learning Where to Focus for Efficient Video Object Detection**
 
 - 主页：https://jiangzhengkai.github.io/LSTS/
-- 论文：暂无
+- 论文：http://arxiv.org/abs/1911.05253
 - 代码：https://github.com/jiangzhengkai/LSTS
 
 <a name="Semantic-Segmentation"></a>
@@ -237,13 +225,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Tensor Low-Rank Reconstruction for Semantic Segmentation**
 
 - 论文：https://arxiv.org/abs/2008.00490
-
 - 代码：https://github.com/CWanli/RecoNet
 
 **Bi-directional Cross-Modality Feature Propagation with Separation-and-Aggregation Gate for RGB-D Semantic Segmentation**
 
 - 论文：https://arxiv.org/abs/2007.09183
-
 - 代码：https://github.com/charlesCXK/RGBD_Semantic_Segmentation_PyTorch
 
 **GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild**
@@ -255,19 +241,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **SegFix: Model-Agnostic Boundary Refinement for Segmentation**
 
 - 论文：https://arxiv.org/abs/2007.04269
-
 - 代码：https://github.com/openseg-group/openseg.pytorch
 
 **Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation**
 
-- Oral
 - 论文：https://arxiv.org/abs/2007.01947
 - 代码：https://github.com/GuoleiSun/MCIS_wsss
 
  **Improving Semantic Segmentation via Decoupled Body and Edge Supervision**
 
 - 论文：https://arxiv.org/abs/2007.10035
-
 - 代码：https://github.com/lxtGH/DecoupleSegNets
 
 <a name="Instance-Segmentation"></a>
@@ -277,19 +260,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **SipMask: Spatial Information Preservation for Fast Image and Video Instance Segmentation**
 
 - 论文：https://arxiv.org/abs/2007.14772
-
 - 代码：https://github.com/JialeCao001/SipMask
 
 **Commonality-Parsing Network across Shape and Appearance for Partially Supervised Instance Segmentation**
 
 - 论文：https://arxiv.org/abs/2007.12387
-
 - 代码：https://github.com/fanq15/CPMask
 
  **Boundary-preserving Mask R-CNN**
 
 - 论文：https://arxiv.org/abs/2007.08921
-
 - 代码：https://github.com/hustvl/BMaskR-CNN
 
 **Conditional Convolutions for Instance Segmentation**
@@ -312,7 +292,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation**
 
 - 论文：https://arxiv.org/abs/2003.07853
-
 - 代码：https://github.com/csrhddlam/axial-deeplab
 - 视频：https://youtu.be/-iAXF-vibdE
 
@@ -328,7 +307,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Video Object Segmentation with Episodic Graph Memory Networks**
 
 - 论文：https://arxiv.org/abs/2007.07020
-
 - 代码：https://github.com/carrierlxk/GraphMemVOS
 
 <a name="Object-Tracking"></a>
@@ -338,14 +316,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Ocean: Object-aware Anchor-Free Tracking**
 
 - 论文：https://arxiv.org/abs/2006.10721
-
 - 代码：https://github.com/researchmm/TracKit
 
 ## 多目标跟踪
 
 **Towards Real-Time Multi-Object Tracking**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/1909.12605
 - 代码：https://github.com/Zhongdao/Towards-Realtime-MOT
 
 **Simultaneous Detection and Tracking with Motion Modelling for Multiple Object Tracking**
@@ -357,13 +334,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking**
 
 - 论文：https://arxiv.org/abs/2007.14557
-
 - 代码：https://github.com/pjl1995/CTracker
 
 **Ocean: Object-aware Anchor-Free Tracking**
 
 - 论文：https://arxiv.org/abs/2006.10721
-
 - 代码：https://github.com/researchmm/TracKit
 
 **TAO: A Large-Scale Benchmark for Tracking Any Object**
@@ -386,7 +361,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Rewriting a Deep Generative Model**
 
 - 论文：https://arxiv.org/abs/2007.15646
-
 - 代码：https://github.com/davidbau/rewriting
 
 **Contrastive Learning for Unpaired Image-to-Image Translation**
@@ -396,7 +370,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **XingGAN for Person Image Generation**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2007.09278
 - 代码：https://github.com/Ha0Tang/XingGAN
 
 <a name="NAS"></a>
@@ -406,7 +380,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Are Labels Necessary for Neural Architecture Search?**
 
 - 论文：https://arxiv.org/abs/2003.12056
-
 - 代码：https://github.com/facebookresearch/unnas
 
 **Rethinking Bottleneck Structure for Efficient Mobile Network Design**
@@ -426,7 +399,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds**
 
 - 论文：https://arxiv.org/abs/1912.00461
-
 - 代码：https://github.com/ajhamdi/AdvPC
 
 **A Closer Look at Local Aggregation Operators in Point Cloud Analysis**
@@ -451,7 +423,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Progressive Point Cloud Deconvolution Generation Network**
 
 - 论文：https://arxiv.org/abs/2007.05361
-
 - 代码：https://github.com/fpthink/PDGN
 
 <a name="Face"></a>
@@ -470,7 +441,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Explainable Face Recognition**
 
 - 论文：https://arxiv.org/abs/2008.00916
-
 - 主页：https://stresearch.github.io/xfr/
 - 代码：https://github.com/stresearch/xfr
 
@@ -486,7 +456,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations**
 
 - 论文：https://arxiv.org/abs/2007.12342
-
 - 数据集：https://github.com/Davidzhangyuanhan/CelebA-Spoof
 
 ## 人脸解析
@@ -494,7 +463,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Edge-aware Graph Representation Learning and Reasoning for Face Parsing**
 
 - 论文：https://arxiv.org/abs/2007.11240
-
 - 代码：https://github.com/tegusi/EAGRNet
 
 <a name="Re-ID"></a>
@@ -546,7 +514,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection**
 
 - 论文：http://xxx.itp.ac.cn/abs/2008.07064
-
 - 代码：https://github.com/ShuhanChen/PGAR_ECCV20
 
 **Suppress and Balance: A Simple Gated Network for Salient Object Detection**
@@ -559,7 +526,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.06227
-
 - 代码：https://github.com/lartpang/HDFNet
 
 **A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection**
@@ -569,13 +535,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Cross-Modal Weighting Network for RGB-D Salient Object Detection**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2007.04901
 
 - 代码：https://github.com/MathLee/CMWNet
 
 **BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2007.02713
 - 代码：https://github.com/DengPingFan/BBS-Net
 
 **Highly Efficient Salient Object Detection with 100K Parameters**
@@ -604,9 +570,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **LEMMA: A Multi-view Dataset for Learning Multi-agent Multi-task Activities**
 
 - 主页：https://sites.google.com/view/lemma-activity
-
 - 论文：https://arxiv.org/abs/2007.15781
-
 - 数据集：https://sites.google.com/view/lemma-activity/home/dataset
 - 代码：https://github.com/Buzz-Beater/LEMMA
 
@@ -619,7 +583,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Context-Aware RCNN: A Baseline for Action Detection in Videos**
 
 - 论文：https://arxiv.org/abs/2007.09861
-
 - 代码：https://github.com/MCG-NJU/CRCNN-Action
 
 **Actions as Moving Points**
@@ -635,7 +598,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Asynchronous Interaction Aggregation for Action Detection**
 
 - 论文：https://arxiv.org/abs/2004.07485
-
 - 代码：https://github.com/MVIG-SJTU/AlphAction 
 
 <a name="Scene-Text-Detection"></a>
@@ -655,7 +617,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting**
 
 - 论文：https://arxiv.org/abs/2007.09482
-
 - 代码：https://github.com/MhLiao/MaskTextSpotterV3
 
 <a name="Feature"></a>
@@ -665,7 +626,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Learning and aggregating deep local descriptors for instance-level recognition**
 
 - 论文：https://arxiv.org/abs/2007.13172
-
 - 代码：https://github.com/gtolias/how
 
 **Online Invariance Selection for Local Feature Descriptors**
@@ -677,7 +637,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Single-Image Depth Prediction Makes Feature Matching Easier**
 
 - 论文：https://arxiv.org/abs/2008.09497
-
 - 代码：http://www.github.com/nianticlabs/rectified-features
 
 <a name="Pose-Estimation"></a>
@@ -716,9 +675,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **CosyPose: Consistent multi-view multi-object 6D pose estimation**
 
 - 主页：https://www.di.ens.fr/willow/research/cosypose/
-
 - 论文：http://xxx.itp.ac.cn/abs/2008.08465
-
 - 代码：https://github.com/ylabbe/cosypose
 
 <a name="Depth-Estimation"></a>
@@ -770,7 +727,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Component Divide-and-Conquer for Real-World Image Super-Resolution**
 
 - 论文：https://arxiv.org/abs/2008.01928
-
 - 代码和数据集：https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution
 
 **Learning with Privileged Information for Efficient Image Super-Resolution**
@@ -794,7 +750,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Video Super-Resolution with Recurrent Structure-Detail Network**
 
 - 论文：https://arxiv.org/abs/2008.00455
-
 - 代码：https://github.com/junpan19/RSDN
 
 <a name="Deblurring"></a>
@@ -813,7 +768,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Rethinking Image Deraining via Rain Streaks and Vapors**
 
 - 论文：https://arxiv.org/abs/2008.00823
-
 - 代码：https://github.com/yluestc/derain
 
 <a name="Image-Video-Inpainting"></a>
@@ -829,13 +783,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Learning Joint Spatial-Temporal Transformations for Video Inpainting**
 
 - 论文：https://arxiv.org/abs/2007.10247
-
 - 代码：https://github.com/researchmm/STTN
 
 **Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations**
 
 - Oral
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2007.06929
 - 代码：https://github.com/KumapowerLIU/ECCV2020oralRethinking-Image-Inpainting-via-a-Mutual-Encoder-Decoder-with-Feature-Equalizations
 
  <a name="Style-Transfer"></a>
@@ -862,7 +815,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Stochastic Bundle Adjustment for Efficient and Scalable 3D Reconstruction**
 
 - 论文：http://xxx.itp.ac.cn/abs/2008.00446
-
 - 代码：https://github.com/zlthinker/STBA
 
 <a name="Image-Caption"></a>
@@ -872,7 +824,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards**
 
 - 论文：https://arxiv.org/abs/2008.02693
-
 - 代码： https://github.com/xuewyang/Fashion_Captioning 
 - 数据集：https://drive.google.com/drive/folders/1J6SZOt_WFwZToX1Jf7QiXzFVwt23lGwW?usp=sharing
 
@@ -883,7 +834,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **SOLAR: Second-Order Loss and Attention for Image Retrieval**
 
 - 论文：https://arxiv.org/abs/2001.08972
-
 - 代码：https://github.com/tonyngjichun/SOLAR
 
 **Self-supervising Fine-grained Region Similarities for Large-scale Image Localization**
@@ -900,7 +850,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **RAFT: Recurrent All-Pairs Field Transforms for Optical Flow**
 
 - 论文：https://arxiv.org/abs/2003.12039
-
 - 代码：https://github.com/princeton-vl/RAFT
 
 **LiteFlowNet3: Resolving Correspondence Ambiguity for More Accurate Optical Flow Estimation**
@@ -915,7 +864,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **BMBC: Bilateral Motion Estimation with Bilateral Cost Volume for Video Interpolation**
 
 - 论文：https://arxiv.org/abs/2007.12622
-
 - 代码：https://github.com/JunHeum/BMBC
 
 <a name="Lane-Detection"></a>
@@ -930,7 +878,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Ultra Fast Structure-aware Deep Lane Detection**
 
 - 论文：https://arxiv.org/abs/2004.11757
-
 - 代码：https://github.com/cfzd/Ultra-Fast-Lane-Detection
 - 论文解读：https://mp.weixin.qq.com/s/TYzDx8R1oUbVr0FxGnFspQ
 
@@ -956,7 +903,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Deep Hough-Transform Line Priors**
 
 - 论文：https://arxiv.org/abs/2007.09493
-
 - 代码：https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors
 
 <a name="Gaze-Estimation"></a>
@@ -966,7 +912,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **ETH-XGaze: A Large Scale Dataset for Gaze Estimation under Extreme Head Pose and Gaze Variation**
 
 - 主页：https://ait.ethz.ch/projects/2020/ETH-XGaze
-
 - 论文：https://arxiv.org/abs/2007.15837
 
 <a name="Eye-Tracking"></a>
@@ -1023,29 +968,24 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards**
 
 - 论文：https://arxiv.org/abs/2008.02693
-
 - 代码： https://github.com/xuewyang/Fashion_Captioning 
 - 数据集：https://drive.google.com/drive/folders/1J6SZOt_WFwZToX1Jf7QiXzFVwt23lGwW?usp=sharing
 
 **From Shadow Segmentation to Shadow Removal**
 
 - 论文：http://xxx.itp.ac.cn/abs/2008.00267
-
 - 数据集：https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html
 
 **LEMMA: A Multi-view Dataset for Learning Multi-agent Multi-task Activities**
 
 - 主页：https://sites.google.com/view/lemma-activity
-
 - 论文：https://arxiv.org/abs/2007.15781
-
 - 数据集：https://sites.google.com/view/lemma-activity/home/dataset
 - 代码：https://github.com/Buzz-Beater/LEMMA
 
 **Component Divide-and-Conquer for Real-World Image Super-Resolution**
 
 - 论文：https://arxiv.org/abs/2008.01928
-
 - 代码和数据集：https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution
 
 **Towards End-to-end Video-based Eye-Tracking**
@@ -1056,29 +996,23 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Reconstructing NBA Players**
 
 - 主页：http://grail.cs.washington.edu/projects/nba_players/
-
 - 论文：https://arxiv.org/abs/2007.13303
 
 **CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations**
 
 - 论文：https://arxiv.org/abs/2007.12342
-
 - 数据集：https://github.com/Davidzhangyuanhan/CelebA-Spoof
 
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
 
 - 论文：https://arxiv.org/abs/2007.09584
-
 - 代码：https://github.com/clobotics/piou
-
 - 数据集：https://github.com/clobotics/piou
 
 **DanbooRegion: An Illustration Region Dataset**
 
 - 主页：https://lllyasviel.github.io/DanbooRegion/
-
 - 论文：https://lllyasviel.github.io/DanbooRegion/paper/paper.pdf
-
 - 数据集：https://github.com/lllyasviel/DanbooRegion
 
 **Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
@@ -1108,8 +1042,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **AiR: Attention with Reasoning Capability**
 
-- 论文：暂无
-
+- 论文：https://arxiv.org/abs/2007.14419
 - 代码：https://github.com/szzexpoi/AiR
 - 数据集：https://github.com/szzexpoi/AiR
 
@@ -1120,7 +1053,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition**
 
 - 论文：https://arxiv.org/abs/2003.08526
-
 - 代码：https://github.com/gyhandy/Pose-Augmentation
 
 **Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems**
@@ -1131,19 +1063,17 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **From Shadow Segmentation to Shadow Removal**
 
-论文：http://xxx.itp.ac.cn/abs/2008.00267
-
-代码和数据集：https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html
+- 论文：http://xxx.itp.ac.cn/abs/2008.00267
+- 代码和数据集：https://www3.cs.stonybrook.edu/~cvl/projects/FSS2SR/index.html
 
 **Funnel Activation for Visual Recognition**
 
 - 论文：https://arxiv.org/abs/2007.11824
-
 - 代码：https://github.com/megvii-model/FunnelAct
 
 **Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/2008.01576
 - 代码：https://github.com/xh-liu/Open-Edit
 - Video：https://youtu.be/8E3bwvjCHYE
 
@@ -1161,9 +1091,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **AiR: Attention with Reasoning Capability**
 
 - Oral
-
 - 论文：https://arxiv.org/abs/2007.14419
-
 - 代码：https://github.com/szzexpoi/AiR
 
 **Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets**
@@ -1174,7 +1102,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **A Generic Visualization Approach for Convolutional Neural Networks**
 
 - 论文：https://arxiv.org/abs/2007.09748
-
 - 代码：https://github.com/ahmdtaha/constrained_attention_filter
 
 **Deep Plastic Surgery: Robust and Controllable Image Editing with Human-Drawn Sketches**
@@ -1196,8 +1123,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **AiR: Attention with Reasoning Capability**
 
-- 论文：暂无
-
+- 论文：https://arxiv.org/abs/2007.14419
 - 代码：https://github.com/szzexpoi/AiR
 - 数据集：https://github.com/szzexpoi/AiR
 
@@ -1217,7 +1143,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Spatial-Angular Interaction for Light Field Image Super-Resolution**
 
-- 论文：暂无
+- 论文：https://arxiv.org/abs/1912.07849
 - 代码：https://github.com/YingqianWang/LF-InterNet
 
 **TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval**
@@ -1228,7 +1154,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Self-supervising Fine-grained Region Similarities for IBL**
 
-- 论文：暂无
+- 论文：https://arxiv.org/pdf/2006.03926
 - 代码： https://github.com/ID2191/ECCV2020 
 
 https://github.com/lelechen63/eccv2020
