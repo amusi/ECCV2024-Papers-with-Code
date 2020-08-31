@@ -220,7 +220,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Learning Where to Focus for Efficient Video Object Detection**
 
 - 主页：https://jiangzhengkai.github.io/LSTS/
-- 论文：暂无
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610018.pdf
 - 代码：https://github.com/jiangzhengkai/LSTS
 
 <a name="Semantic-Segmentation"></a>
