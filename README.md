@@ -852,6 +852,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 三维重建
 
+**Atlas: End-to-End 3D Scene Reconstruction from Posed Images**
+
+- 主页：http://zak.murez.com/atlas/
+- 论文：https://arxiv.org/abs/2003.10432
+- 代码：https://github.com/magicleap/Atlas
+- 视频：https://youtu.be/9NOPcOGV6nU
+
 **3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View**
 
 - 主页：https://marcbadger.github.io/avian-mesh/
