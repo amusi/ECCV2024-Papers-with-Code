@@ -503,6 +503,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 行人重识别
 
+**Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians**
+
+- 论文：https://arxiv.org/abs/2008.06963
+- 代码：https://github.com/X-BrainLab/PI-ReID
+
 **Faster Person Re-Identification**
 
 - 论文：https://arxiv.org/abs/2008.06826
