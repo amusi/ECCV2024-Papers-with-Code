@@ -494,8 +494,15 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Edge-aware Graph Representation Learning and Reasoning for Face Parsing**
 
 - 论文：https://arxiv.org/abs/2007.11240
-
 - 代码：https://github.com/tegusi/EAGRNet
+
+## DeepFakes
+
+**What makes fake images detectable? Understanding properties that generalize**
+
+- 主页：https://chail.github.io/patch-forensics/
+- 论文：http://xxx.itp.ac.cn/abs/2008.10588
+- 代码：https://github.com/chail/patch-forensics
 
 <a name="Re-ID"></a>
 
