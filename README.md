@@ -511,6 +511,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 行人重识别
 
+**Rethinking the Distribution Gap of Person Re-identification with Camera-based Batch Normalization**
+
+- 论文：https://arxiv.org/abs/2001.08680
+- 代码：https://github.com/automan000/Camera-based-Person-ReID
+
 **Appearance-Preserving 3D Convolution for Video-based Person Re-identification**
 
 - Oral
