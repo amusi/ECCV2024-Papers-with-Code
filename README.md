@@ -513,6 +513,8 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 **Appearance-Preserving 3D Convolution for Video-based Person Re-identification**
 
+- Oral
+
 - 论文：https://arxiv.org/pdf/2007.08434
 - 代码：https://github.com/guxinqian/AP3D 
 
@@ -549,6 +551,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 代码：https://github.com/YunpengZhai/MEB-Net
 
 ## 车辆重识别
+
+**Simulating Content Consistent Vehicle Datasets with Attribute Descent**
+
+- 论文：https://arxiv.org/abs/1912.08855
+- 代码：https://github.com/yorkeyao/VehicleX 
+- 数据集：https://github.com/yorkeyao/VehicleX
 
 **Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network**
 
@@ -1014,6 +1022,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**Simulating Content Consistent Vehicle Datasets with Attribute Descent**
+
+- 论文：https://arxiv.org/abs/1912.08855
+- 代码：https://github.com/yorkeyao/VehicleX 
+- 数据集：https://github.com/yorkeyao/VehicleX 
 
 **InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image**
 
