@@ -31,6 +31,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [超分辨率](#Super-Resolution)
 - [去模糊](#Deblurring)
 - [去雨](#Deraining)
+- [图像/视频恢复](#Image-Restoration)
 - [图像/视频修复(补全)](#Image-Video-Inpainting)
 - [风格迁移](#Style-Transfer)
 - [三维重建](#3D-Reconstruction)
@@ -825,8 +826,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Rethinking Image Deraining via Rain Streaks and Vapors**
 
 - 论文：https://arxiv.org/abs/2008.00823
-
 - 代码：https://github.com/yluestc/derain
+
+<a name="Image-Restoration"></a>
+
+# 图像/视频恢复
+
+**Learning Enriched Features for Real Image Restoration and Enhancement**
+
+- 论文：https://arxiv.org/abs/2003.06792
+- 代码：https://github.com/swz30/MIRNet
 
 <a name="Image-Video-Inpainting"></a>
 
