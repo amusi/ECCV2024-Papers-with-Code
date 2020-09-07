@@ -511,6 +511,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 行人重识别
 
+**Appearance-Preserving 3D Convolution for Video-based Person Re-identification**
+
+- 论文：https://arxiv.org/pdf/2007.08434
+- 代码：https://github.com/guxinqian/AP3D 
+
 **Do Not Disturb Me: Person Re-identification Under the Interference of Other Pedestrians**
 
 - 论文：https://arxiv.org/abs/2008.06963
