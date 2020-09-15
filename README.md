@@ -683,6 +683,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 场景文本识别
 
+**Adaptive Text Recognition through Visual Matching**
+
+- 主页：http://www.robots.ox.ac.uk/~vgg/research/FontAdaptor20/
+
+- 论文：https://arxiv.org/abs/2009.06610
+
+- 代码：https://github.com/Chuhanxx/FontAdaptor
+
 **Mask TextSpotter v3: Segmentation Proposal Network for Robust Scene Text Spotting**
 
 - 论文：https://arxiv.org/abs/2007.09482
