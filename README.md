@@ -815,11 +815,16 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 图像超分辨率
 
+**Deep Decomposition Learning for Inverse Imaging Problems**
+
+- 论文：https://arxiv.org/pdf/1911.11028.pdf
+- 代码：https://github.com/edongdongchen/DDN 
+
 **Component Divide-and-Conquer for Real-World Image Super-Resolution**
 
 - 论文：https://arxiv.org/abs/2008.01928
-
-- 代码和数据集：https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution
+- 代码：https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution
+- 数据集：https://github.com/xiezw5/Component-Divide-and-Conquer-for-Real-World-Image-Super-Resolution
 
 **Learning with Privileged Information for Efficient Image Super-Resolution**
 
