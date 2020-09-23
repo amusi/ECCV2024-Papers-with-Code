@@ -44,6 +44,7 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - [线段检测](#Line-Detection)
 - [视线估计](#Gaze-Estimation)
 - [眼动追踪](#Eye-Tracking)
+- [对抗攻击](#Adversarial-Attack)
 - [数据集](#Datasets)
 - [其他](#Others)
 - [不确定中没中](#Not-Sure)
@@ -1040,6 +1041,20 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 主页：https://ait.ethz.ch/projects/2020/EVE/
 - 论文：https://arxiv.org/abs/2007.13120
 
+<a name="Adversarial-Attack"></a>
+
+# 对抗攻击
+
+**Adversarial Ranking Attack and Defense**
+
+- 论文：https://arxiv.org/abs/2002.11293
+- 代码：https://github.com/cdluminate/advrank 
+
+**Square Attack: a query-efficient black-box adversarial attack via random search**
+
+- 论文：https://arxiv.org/abs/1912.00049
+- 代码：https://github.com/max-andr/square-attack
+
 <a name="Datasets"></a>
 
 # 数据集
@@ -1268,11 +1283,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 代码：https://github.com/szzexpoi/AiR
 - 数据集：https://github.com/szzexpoi/AiR
-
-**Square Attack: a query-efficient black-box adversarial attack via random search**
-
-- 论文：https://arxiv.org/abs/1912.00049
-- 代码：https://github.com/max-andr/square-attack
 
 <a name="Not-Sure"></a>
 
