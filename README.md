@@ -854,10 +854,19 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 去模糊
 
+## 图像去模糊
+
 **End-to-end Interpretable Learning of Non-blind Image Deblurring**
 
 - 论文：https://arxiv.org/abs/2007.01769
 - 代码：暂无（即将出来）
+
+## 视频去模糊
+
+**Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5116_ECCV_2020_paper.php
+- 代码：https://github.com/zzh-tech/ESTRNN 
 
 <a name="Deraining"></a>
 
