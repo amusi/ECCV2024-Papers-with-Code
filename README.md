@@ -115,6 +115,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**TIDE: A General Toolbox for Identifying Object Detection Errors**
+
+- 主页：https://dbolya.github.io/tide/
+
+- 论文：https://arxiv.org/abs/2008.08115
+
+- 代码：https://github.com/dbolya/tide
+
 **Every Pixel Matters: Center-aware Feature Alignment for Domain Adaptive Object Detector**
 
 - 主页：https://chengchunhsu.github.io/EveryPixelMatters/
