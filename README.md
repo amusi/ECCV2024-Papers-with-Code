@@ -240,6 +240,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2008.08574
 - 代码：https://github.com/chengchunhsu/EveryPixelMatters
 
+### Few-Shot 目标检测
+
+**Multi-Scale Positive Sample Refinement for Few-Shot Object Detection**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2581_ECCV_2020_paper.php
+- 代码：https://github.com/jiaxi-wu/MPSR
+
 ## 遥感旋转目标检测
 
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
