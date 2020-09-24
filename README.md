@@ -252,6 +252,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 视频目标检测
 
+**Mining Inter-Video Proposal Relations for Video Object Detection**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3764_ECCV_2020_paper.php
+- 代码：https://github.com/youthHan/HVRNet
+
 **Learning Where to Focus for Efficient Video Object Detection**
 
 - 主页：https://jiangzhengkai.github.io/LSTS/
