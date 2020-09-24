@@ -177,11 +177,6 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 数据集：https://github.com/clobotics/piou
 
-**Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer**
-
-- 论文：https://arxiv.org/abs/2007.07986
-- 代码：https://github.com/mikuhatsune/wsod_transfer
-
 **Probabilistic Anchor Assignment with IoU Prediction for Object Detection**
 
 - 论文：https://arxiv.org/abs/2007.08103
@@ -226,6 +221,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 - 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3205_ECCV_2020_paper.php
 - 代码：https://github.com/NVlabs/wetectron
+
+**Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer**
+
+- 论文：https://arxiv.org/abs/2007.07986
+- 代码：https://github.com/mikuhatsune/wsod_transfer
 
 ## 遥感旋转目标检测
 
