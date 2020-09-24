@@ -353,6 +353,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 多目标跟踪
 
+**Side-Aware Boundary Localization for More Precise Object Detection**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2272_ECCV_2020_paper.php
+- 代码：https://github.com/open-mmlab/mmdetection 
+
 **Towards Real-Time Multi-Object Tracking**
 
 - 论文：暂无
