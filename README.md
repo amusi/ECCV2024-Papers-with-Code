@@ -116,6 +116,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**Learning Data Augmentation Strategies for Object Detection**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5865_ECCV_2020_paper.php
+- 代码：https://github.com/tensorflow/tpu/tree/master/models/official/detection
+
 **AABO: Adaptive Anchor Box Optimization for Object Detection via Bayesian Sub-sampling**
 
 - 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3977_ECCV_2020_paper.php
