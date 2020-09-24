@@ -203,8 +203,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 **Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training**
 
 - 论文：https://arxiv.org/abs/2004.06002
-
 - 代码：https://github.com/hkzhang95/DynamicRCNN 
+
+**OS2D: One-Stage One-Shot Object Detection by Matching Anchor Features**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2424_ECCV_2020_paper.php
+- 代码：https://github.com/aosokin/os2d
 
 ## 遥感旋转目标检测
 
