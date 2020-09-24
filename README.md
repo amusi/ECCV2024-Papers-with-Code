@@ -215,10 +215,17 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2424_ECCV_2020_paper.php
 - 代码：https://github.com/aosokin/os2d
 
+### 弱监督目标检测
+
 **Enabling Deep Residual Networks for Weakly Supervised Object Detection**
 
 - 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/479_ECCV_2020_paper.php
 - 代码：https://github.com/shenyunhang/DRN-WSOD
+
+**UFO²: A Unified Framework towards Omni-supervised Object Detection**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3205_ECCV_2020_paper.php
+- 代码：https://github.com/NVlabs/wetectron
 
 ## 遥感旋转目标检测
 
