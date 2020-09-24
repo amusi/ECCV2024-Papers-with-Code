@@ -227,6 +227,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://arxiv.org/abs/2007.07986
 - 代码：https://github.com/mikuhatsune/wsod_transfer
 
+### 域自适应目标检测
+
+**Collaborative Training between Region Proposal Localization and Classification for Domain Adaptive Object Detection**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2920_ECCV_2020_paper.php
+- 代码：https://github.com/GanlongZhao/CST_DA_detection
+
 ## 遥感旋转目标检测
 
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
