@@ -210,6 +210,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2424_ECCV_2020_paper.php
 - 代码：https://github.com/aosokin/os2d
 
+**Object Detection with a Unified Label Space from Multiple Datasets**
+
+- 主页：http://www.nec-labs.com/~mas/UniDet/
+- 论文：https://arxiv.org/abs/2008.06614
+- 代码：暂无
+- 数据集：http://www.nec-labs.com/~mas/UniDet/resources/UOD_dataset_ECCV20.zip
+
 ### 弱监督目标检测
 
 **Enabling Deep Residual Networks for Weakly Supervised Object Detection**
@@ -1141,6 +1148,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 <a name="Datasets"></a>
 
 # 数据集
+
+**Object Detection with a Unified Label Space from Multiple Datasets**
+
+- 主页：http://www.nec-labs.com/~mas/UniDet/
+- 论文：https://arxiv.org/abs/2008.06614
+- 代码：暂无
+- 数据集：http://www.nec-labs.com/~mas/UniDet/resources/UOD_dataset_ECCV20.zip
 
 **Simulating Content Consistent Vehicle Datasets with Attribute Descent**
 
