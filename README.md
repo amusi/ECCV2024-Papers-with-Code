@@ -116,6 +116,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 2D目标检测
 
+**AABO: Adaptive Anchor Box Optimization for Object Detection via Bayesian Sub-sampling**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3977_ECCV_2020_paper.php
+- 代码：https://github.com/wwdkl/AABO
+
 **Side-Aware Boundary Localization for More Precise Object Detection**
 
 - 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2272_ECCV_2020_paper.php
