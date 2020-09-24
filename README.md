@@ -247,6 +247,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2581_ECCV_2020_paper.php
 - 代码：https://github.com/jiaxi-wu/MPSR
 
+### 水下目标检测
+
+**Dual Refinement Underwater Object Detection Network**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3425_ECCV_2020_paper.php
+- 代码：https://github.com/Peterchen111/FERNet
+
 ## 遥感旋转目标检测
 
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
