@@ -217,6 +217,12 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 遥感旋转目标检测
 
+**PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
+
+- 论文：https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3087_ECCV_2020_paper.php
+- 代码：https://github.com/clobotics/piou
+- 数据集：https://github.com/clobotics/piou
+
 **Arbitrary-Oriented Object Detection with Circular Smooth Label**
 
 - 论文：https://arxiv.org/abs/2003.05597
