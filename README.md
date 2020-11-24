@@ -1297,6 +1297,11 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 其他
 
+**Defocus Blur Detection via Depth Distillation**
+
+- 论文：https://arxiv.org/abs/2007.08113
+- 代码：https://github.com/vinthony/depth-distillation
+
 **Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition**
 
 - 论文：https://arxiv.org/abs/2003.08526
