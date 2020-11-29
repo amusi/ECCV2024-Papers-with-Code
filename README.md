@@ -590,6 +590,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 - 论文：http://xxx.itp.ac.cn/abs/2008.10588
 - 代码：https://github.com/chail/patch-forensics
 
+## 其他
+
+**Lifespan Age Transformation Synthesis**
+
+- 论文：https://arxiv.org/abs/2003.09764
+- 代码：https://github.com/royorel/Lifespan_Age_Transformation_Synthesis
+
 <a name="Re-ID"></a>
 
 # Re-ID
