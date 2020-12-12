@@ -898,9 +898,14 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 ## 图像超分辨率
 
+**Learning the Super-Resolution Space with Normalizing Flow**
+
+- 论文：https://arxiv.org/abs/2006.14200
+- 代码：https://github.com/andreas128/SRFlow
+
 **Deep Decomposition Learning for Inverse Imaging Problems**
 
-- 论文：https://arxiv.org/pdf/1911.11028.pdf
+- 论文：https://arxiv.org/abs/1911.11028
 - 代码：https://github.com/edongdongchen/DDN 
 
 **Component Divide-and-Conquer for Real-World Image Super-Resolution**
