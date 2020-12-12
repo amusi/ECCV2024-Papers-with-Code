@@ -1161,6 +1161,13 @@ ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分�
 
 # 数据集
 
+ **Long-term Human Motion Prediction with Scene Context**
+
+- 主页：https://people.eecs.berkeley.edu/~zhecao/hmp/index.html
+- 论文：https://arxiv.org/abs/2007.03672
+
+- 数据集：https://github.com/ZheC/GTA-IM-Dataset
+
 **Object Detection with a Unified Label Space from Multiple Datasets**
 
 - 主页：http://www.nec-labs.com/~mas/UniDet/
