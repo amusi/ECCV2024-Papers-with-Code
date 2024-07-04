@@ -19,6 +19,7 @@ ECCV 2024 decisions are now available！
 # 【ECCV 2024 论文开源目录】
 
 - [3DGS(Gaussian Splatting)](#3DGS)
+- [Mamba / SSM)](#Mamba)
 - [Avatars](#Avatars)
 - [Backbone](#Backbone)
 - [CLIP](#CLIP)
@@ -117,6 +118,18 @@ ECCV 2024 decisions are now available！
 - Paper: https://arxiv.org/abs/2312.00451
 - Code: https://github.com/VITA-Group/FSGS
 
+
+
+<a name="Mamba"></a>
+
+# Mamba / SSM
+
+**VideoMamba: State Space Model for Efficient Video Understanding**
+
+- Paper: https://arxiv.org/abs/2403.06977
+
+- Code: https://github.com/OpenGVLab/VideoMamba
+
 <a name="Avatars"></a>
 
 # Avatars
@@ -159,6 +172,19 @@ ECCV 2024 decisions are now available！
 
 
 
+
+
+<a name="Occupancy"></a>
+
+# Occupancy
+
+**Fully Sparse 3D Occupancy Prediction**
+
+- Paper: https://arxiv.org/abs/2312.17118
+- Code: https://github.com/MCG-NJU/SparseOcc
+
+
+
 <a name="NeRF"></a>
 
 # NeRF
@@ -181,9 +207,10 @@ ECCV 2024 decisions are now available！
 
 # 多模态大语言模型(MLLM)
 
+**SQ-LLaVA: Self-Questioning for Large Vision-Language Assistant**
 
-
-
+- Paper: https://arxiv.org/abs/2403.11299
+- Code: https://github.com/heliossun/SQ-LLaVA
 
 <a name="LLM"></a>
 
@@ -213,17 +240,18 @@ ECCV 2024 decisions are now available！
 
 # Vision Transformer
 
+**GiT: Towards Generalist Vision Transformer through Universal Language Interface**
 
-
-
+- Paper: https://arxiv.org/abs/2403.09394
+- Code: https://github.com/Haiyang-W/GiT
 
 <a name="VL"></a>
 
 # 视觉和语言(Vision-Language)
 
+**GalLoP: Learning Global and Local Prompts for Vision-Language Models**
 
-
-
+- Paper：https://arxiv.org/abs/2407.01400
 
 <a name="Object-Detection"></a>
 
@@ -249,9 +277,11 @@ ECCV 2024 decisions are now available！
 
 # 语义分割(Semantic Segmentation)
 
+**Context-Guided Spatial Feature Reconstruction for Efficient Semantic Segmentation**
 
+- Paper: https://arxiv.org/abs/2405.06228
 
-
+- Code: https://github.com/nizhenliang/CGRSeg
 
 <a name="MI"></a>
 
@@ -269,7 +299,10 @@ ECCV 2024 decisions are now available！
 
 # 自动驾驶(Autonomous Driving)
 
+**Fully Sparse 3D Occupancy Prediction**
 
+- Paper: https://arxiv.org/abs/2312.17118
+- Code: https://github.com/MCG-NJU/SparseOcc
 
 <a name="3D-Point-Cloud"></a>
 
@@ -292,6 +325,18 @@ ECCV 2024 decisions are now available！
 # 图像编辑(Image Editing)
 
 
+
+
+
+<a name="Image-Inpainting"></a>
+
+# 图像补全/图像修复(Image Inpainting)
+
+**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**
+
+- Project https://tencentarc.github.io/BrushNet/
+- Paper: https://arxiv.org/abs/2403.06976
+- Code: https://github.com/TencentARC/BrushNet
 
 <a name="Video-Editing"></a>
 
@@ -345,7 +390,11 @@ ECCV 2024 decisions are now available！
 
 # 视频理解(Video Understanding)
 
+**VideoMamba: State Space Model for Efficient Video Understanding**
 
+- Paper: https://arxiv.org/abs/2403.06977
+
+- Code: https://github.com/OpenGVLab/VideoMamba
 
 <a name="KD"></a>
 
