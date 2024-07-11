@@ -193,7 +193,7 @@ ECCV 2024 decisions are now available！
 
 - Project: https://nerf-mae.github.io/
 - Paper: https://arxiv.org/pdf/2404.01300
-- Code: [https://github.com/VITA-Group/FSGS](https://github.com/zubair-irshad/NeRF-MAE)
+- Code: https://github.com/zubair-irshad/NeRF-MAE
 
 
 
@@ -255,7 +255,7 @@ ECCV 2024 decisions are now available！
 
 - Project: https://nerf-mae.github.io/
 - Paper: https://arxiv.org/pdf/2404.01300
-- Code: [https://github.com/VITA-Group/FSGS](https://github.com/zubair-irshad/NeRF-MAE)
+- Code: https://github.com/zubair-irshad/NeRF-MAE
 
 <a name="VL"></a>
 
