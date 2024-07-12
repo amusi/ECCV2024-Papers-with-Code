@@ -170,7 +170,11 @@ ECCV 2024 decisions are now available！
 
 # OCR
 
+**Bridging Synthetic and Real Worlds for Pre-training Scene Text Detectors**
 
+- Paper: https://arxiv.org/pdf/2312.05286
+
+- Code: https://github.com/SJTU-DeepVisionLab/FreeReal 
 
 
 
@@ -211,6 +215,11 @@ ECCV 2024 decisions are now available！
 
 - Paper: https://arxiv.org/abs/2403.11299
 - Code: https://github.com/heliossun/SQ-LLaVA
+
+**ControlCap: Controllable Region-level Captioning**
+
+- Paper: https://arxiv.org/abs/2401.17910
+- Code: https://github.com/callsys/ControlCap 
 
 <a name="LLM"></a>
 
@@ -295,6 +304,16 @@ ECCV 2024 decisions are now available！
 
 
 
+<a name="VOS"></a>
+
+# 视频目标分割(Video Object Segmentation)
+
+**DVIS-DAQ: Improving Video Segmentation via Dynamic Anchor Queries**
+
+- Project: https://zhang-tao-whu.github.io/projects/DVIS_DAQ/
+- Paper: https://arxiv.org/abs/2404.00086
+- Code: https://github.com/zhang-tao-whu/DVIS_Plus 
+
 <a name="Autonomous-Driving"></a>
 
 # 自动驾驶(Autonomous Driving)
@@ -303,6 +322,11 @@ ECCV 2024 decisions are now available！
 
 - Paper: https://arxiv.org/abs/2312.17118
 - Code: https://github.com/MCG-NJU/SparseOcc
+
+**milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion Sensing**
+
+- Paper: https://arxiv.org/abs/2306.17010
+- Code link: https://github.com/Toytiny/milliFlow/ 
 
 <a name="3D-Point-Cloud"></a>
 
@@ -314,7 +338,11 @@ ECCV 2024 decisions are now available！
 
 # 3D目标检测(3D Object Detection)
 
+**3D Small Object Detection with Dynamic Spatial Pruning**
 
+- Project: https://xuxw98.github.io/DSPDet3D/
+- Paper: https://arxiv.org/abs/2305.03716
+- Code: https://github.com/xuxw98/DSPDet3D 
 
 <a name="3DOD"></a>
 
@@ -370,7 +398,10 @@ ECCV 2024 decisions are now available！
 
 # 图像生成(Image Generation)
 
+**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models**
 
+- Paper: https://arxiv.org/abs/2404.07389
+- Code: https://github.com/YasminZhang/EBAMA 
 
 <a name="Video-Generation"></a>
 
