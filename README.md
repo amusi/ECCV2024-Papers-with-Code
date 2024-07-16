@@ -193,6 +193,12 @@ ECCV 2024 decisions are now available！
 
 # NeRF
 
+**NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields**
+
+- Project: https://nerf-mae.github.io/
+- Paper: https://arxiv.org/pdf/2404.01300
+- Code: https://github.com/zubair-irshad/NeRF-MAE
+
 
 
 
@@ -253,6 +259,12 @@ ECCV 2024 decisions are now available！
 
 - Paper: https://arxiv.org/abs/2403.09394
 - Code: https://github.com/Haiyang-W/GiT
+
+**NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields**
+
+- Project: https://nerf-mae.github.io/
+- Paper: https://arxiv.org/pdf/2404.01300
+- Code: https://github.com/zubair-irshad/NeRF-MAE
 
 <a name="VL"></a>
 
