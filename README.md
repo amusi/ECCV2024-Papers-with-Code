@@ -124,6 +124,12 @@ ECCV 2024 decisions are now available！
 
 # Mamba / SSM
 
+**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2403.13802
+
+- Code: https://taohu.me/zigma/
+
 **VideoMamba: State Space Model for Efficient Video Understanding**
 
 - Paper: https://arxiv.org/abs/2403.06977
@@ -397,6 +403,13 @@ ECCV 2024 decisions are now available！
 <a name="Image-Generation"></a>
 
 # 图像生成(Image Generation)
+
+**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2403.13802
+
+- Code: https://taohu.me/zigma/
+
 
 **Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models**
 
