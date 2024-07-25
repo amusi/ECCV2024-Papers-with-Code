@@ -176,7 +176,10 @@ ECCV 2024 decisions are now available！
 
 - Code: https://github.com/SJTU-DeepVisionLab/FreeReal 
 
+**PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer**
 
+- Paper: https://arxiv.org/abs/2407.07764
+- Code: https://github.com/SJTU-DeepVisionLab/PosFormer
 
 <a name="Occupancy"></a>
 
@@ -193,9 +196,11 @@ ECCV 2024 decisions are now available！
 
 # NeRF
 
+**NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields**
 
-
-
+- Project: https://nerf-mae.github.io/
+- Paper: https://arxiv.org/pdf/2404.01300
+- Code: https://github.com/zubair-irshad/NeRF-MAE 
 
 <a name="DETR"></a>
 
@@ -296,13 +301,20 @@ ECCV 2024 decisions are now available！
 
 # 医学图像(Medical Image)
 
+**Brain-ID: Learning Contrast-agnostic Anatomical Representations for Brain Imaging**
 
+- Paper: https://arxiv.org/abs/2311.16914
+- Code: https://github.com/peirong26/Brain-ID 
 
 <a name="MIS"></a>
 
 # 医学图像分割(Medical Image Segmentation)
 
+**ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image**
 
+- Project: https://scribbleprompt.csail.mit.edu/
+- Paper: https://arxiv.org/abs/2312.07381
+- Code: https://github.com/halleewong/ScribblePrompt 
 
 <a name="VOS"></a>
 
@@ -326,7 +338,12 @@ ECCV 2024 decisions are now available！
 **milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion Sensing**
 
 - Paper: https://arxiv.org/abs/2306.17010
-- Code link: https://github.com/Toytiny/milliFlow/ 
+- Code: https://github.com/Toytiny/milliFlow/
+
+ **4D Contrastive Superflows are Dense 3D Representation Learners**
+
+- Paper : https://arxiv.org/abs/2407.06190
+- Code: https://github.com/Xiangxu-0103/SuperFlow 
 
 <a name="3D-Point-Cloud"></a>
 
@@ -376,7 +393,10 @@ ECCV 2024 decisions are now available！
 
 # Low-level Vision
 
+**Restoring Images in Adverse Weather Conditions via Histogram Transformer**
 
+- Paper: https://arxiv.org/abs/2407.10172
+- Code: https://github.com/sunshangquan/Histoformer 
 
 # 超分辨率(Super-Resolution)
 
@@ -401,13 +421,22 @@ ECCV 2024 decisions are now available！
 **Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models**
 
 - Paper: https://arxiv.org/abs/2404.07389
-- Code: https://github.com/YasminZhang/EBAMA 
+- Code: https://github.com/YasminZhang/EBAMA
+
+**Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization**
+
+- Project: https://kaminyou.com/Dense-Normalization/
+- Paper: https://arxiv.org/abs/2407.04245
+- Code: https://github.com/Kaminyou/Dense-Normalization 
 
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
 
+**VideoStudio: Generating Consistent-Content and Multi-Scene Videos**
 
+- Project: https://vidstudio.github.io/
+- Code: https://github.com/FuchenUSTC/VideoStudio 
 
 
 
@@ -457,4 +486,7 @@ ECCV 2024 decisions are now available！
 
 # 其他(Others)
 
+**Multi-branch Collaborative Learning Network for 3D Visual Grounding**
 
+- Paper: https://arxiv.org/abs/2407.05363v2
+- Code: https://github.com/qzp2018/MCLN 
