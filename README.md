@@ -10,9 +10,8 @@ ECCV 2024 decisions are now available！
 > - [CVPR 2024](https://github.com/amusi/CVPR2024-Papers-with-Code)
 > - [ECCV 2022](ECCV2022-Papers-with-Code.md)
 > - [ECCV 2020](ECCV2020-Papers-with-Code.md)
-> - 
 
-欢迎扫码加入【CVer学术交流群】，这是最大的计算机视觉AI知识星球！每日更新，第一时间分享最新最前沿的计算机视觉、AI绘画、图像处理、深度学习、自动驾驶、医疗影像和AIGC等方向的学习资料，学起来！
+想看ECCV 2024和最新最全的顶会工作，欢迎扫码加入【CVer学术交流群】，这是最大的计算机视觉AI知识星球！每日更新，第一时间分享最新最前沿的计算机视觉、深度学习、自动驾驶、医疗影像和AIGC等方向的学习资料，学起来！
 
 ![](CVer学术交流群.png)
 
@@ -72,6 +71,7 @@ ECCV 2024 decisions are now available！
 - [视频生成(Video Generation)](#Video-Generation)
 - [3D生成(3D Generation)](#3D-Generation)
 - [视频理解(Video Understanding)](#Video-Understanding)
+- [行为识别(Action Recognition)](#Action-Recognition)
 - [行为检测(Action Detection)](#Action-Detection)
 - [文本检测(Text Detection)](#Text-Detection)
 - [知识蒸馏(Knowledge Distillation)](#KD)
@@ -90,6 +90,7 @@ ECCV 2024 decisions are now available！
 - [立体匹配(Stereo Matching)](#Stereo-Matching)
 - [特征匹配(Feature Matching)](#Feature-Matching)
 - [场景图生成(Scene Graph Generation)](#SGG)
+- [计数(Counting)](#Counting)
 - [隐式神经表示(Implicit Neural Representations)](#INR)
 - [图像质量评价(Image Quality Assessment)](#IQA)
 - [视频质量评价(Video Quality Assessment)](#Video-Quality-Assessment)
@@ -127,8 +128,12 @@ ECCV 2024 decisions are now available！
 **VideoMamba: State Space Model for Efficient Video Understanding**
 
 - Paper: https://arxiv.org/abs/2403.06977
-
 - Code: https://github.com/OpenGVLab/VideoMamba
+
+**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2403.13802
+- Code: https://taohu.me/zigma/
 
 <a name="Avatars"></a>
 
@@ -246,9 +251,21 @@ ECCV 2024 decisions are now available！
 
 # 扩散模型(Diffusion Models)
 
+**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**
 
+- Paper: https://arxiv.org/abs/2403.13802
+- Code: https://taohu.me/zigma/
 
+**Skews in the Phenomenon Space Hinder Generalization in Text-to-Image Generation**
 
+- Paper: https://arxiv.org/abs/2403.16394
+- Code: https://github.com/zdxdsw/skewed_relations_T2I
+
+**The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization**
+
+- Project: https://ut-mao.github.io/noise.github.io/
+- Paper: https://arxiv.org/abs/2312.08872
+- Code: https://github.com/UT-Mao/Initial-Noise-Construction
 
 <a name="Vision-Transformer"></a>
 
@@ -271,7 +288,17 @@ ECCV 2024 decisions are now available！
 
 # 目标检测(Object Detection)
 
+**Relation DETR: Exploring Explicit Position Relation Prior for Object Detection**
 
+- Paper: https://arxiv.org/abs/2407.11699v1
+- Code: https://github.com/xiuqhou/Relation-DETR
+- Dataset: https://huggingface.co/datasets/xiuqhou/SA-Det-100k 
+
+**Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector**
+
+- Project: http://yuqianfu.com/CDFSOD-benchmark/
+- Paper: https://arxiv.org/pdf/2402.03094
+- Code: https://github.com/lovelyqian/CDFSOD-benchmark 
 
 <a name="Anomaly-Detection"></a>
 
@@ -306,6 +333,13 @@ ECCV 2024 decisions are now available！
 - Paper: https://arxiv.org/abs/2311.16914
 - Code: https://github.com/peirong26/Brain-ID 
 
+**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**
+
+- Project: https://ophai.hms.harvard.edu/datasets/harvard-fairdomain20k
+- Paper : https://arxiv.org/abs/2407.08813
+- Dataset: https://drive.google.com/drive/u/1/folders/1huH93JVeXMj9rK6p1OZRub868vv0UK0O
+- Code: https://github.com/Harvard-Ophthalmology-AI-Lab/FairDomain
+
 <a name="MIS"></a>
 
 # 医学图像分割(Medical Image Segmentation)
@@ -314,7 +348,17 @@ ECCV 2024 decisions are now available！
 
 - Project: https://scribbleprompt.csail.mit.edu/
 - Paper: https://arxiv.org/abs/2312.07381
-- Code: https://github.com/halleewong/ScribblePrompt 
+- Code: https://github.com/halleewong/ScribblePrompt
+
+**AnatoMask: Enhancing Medical Image Segmentation with Reconstruction-guided Self-masking**
+
+- Paper: https://arxiv.org/abs/2407.06468
+- Code: https://github.com/ricklisz/AnatoMask
+
+**Representing Topological Self-Similarity Using Fractal Feature Maps for Accurate Segmentation of Tubular Structures**
+
+- Paper: https://arxiv.org/abs/2407.14754
+- Code: https://github.com/cbmi-group/FFM-Multi-Decoder-Network 
 
 <a name="VOS"></a>
 
@@ -359,7 +403,12 @@ ECCV 2024 decisions are now available！
 
 - Project: https://xuxw98.github.io/DSPDet3D/
 - Paper: https://arxiv.org/abs/2305.03716
-- Code: https://github.com/xuxw98/DSPDet3D 
+- Code: https://github.com/xuxw98/DSPDet3D
+
+**Ray Denoising: Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2402.03634
+- Code: https://github.com/LiewFeng/RayDN 
 
 <a name="3DOD"></a>
 
@@ -396,7 +445,13 @@ ECCV 2024 decisions are now available！
 **Restoring Images in Adverse Weather Conditions via Histogram Transformer**
 
 - Paper: https://arxiv.org/abs/2407.10172
-- Code: https://github.com/sunshangquan/Histoformer 
+- Code: https://github.com/sunshangquan/Histoformer
+
+**OneRestore: A Universal Restoration Framework for Composite Degradation**
+
+- Project  https://gy65896.github.io/projects/ECCV2024_OneRestore
+- Paper: https://arxiv.org/abs/2407.04621
+- Code: https://github.com/gy65896/OneRestore 
 
 # 超分辨率(Super-Resolution)
 
@@ -429,6 +484,16 @@ ECCV 2024 decisions are now available！
 - Paper: https://arxiv.org/abs/2407.04245
 - Code: https://github.com/Kaminyou/Dense-Normalization 
 
+**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**
+
+- Paper: https://arxiv.org/abs/2403.13802
+- Code: https://taohu.me/zigma/
+
+**Skews in the Phenomenon Space Hinder Generalization in Text-to-Image Generation**
+
+- Paper: https://arxiv.org/abs/2403.16394
+- Code: https://github.com/zdxdsw/skewed_relations_T2I 
+
 <a name="Video-Generation"></a>
 
 # 视频生成(Video Generation)
@@ -453,14 +518,34 @@ ECCV 2024 decisions are now available！
 **VideoMamba: State Space Model for Efficient Video Understanding**
 
 - Paper: https://arxiv.org/abs/2403.06977
-
 - Code: https://github.com/OpenGVLab/VideoMamba
+
+**C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition**
+
+- Paper: https://arxiv.org/abs/2407.06113
+- Code: https://github.com/RongchangLi/ZSCAR_C2C
+
+<a name="Action-Recognition"></a>
+
+# 行为识别(Action Recognition)
+
+**SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders**
+
+- Paper: https://arxiv.org/abs/2407.13460
+- Code: https://github.com/pha123661/SA-DVAE 
 
 <a name="KD"></a>
 
 # 知识蒸馏(Knowledge Distillation)
 
+<a name="IC"></a>
 
+# 图像压缩(Image Compression)
+
+**Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation**
+
+- Code: https://github.com/qingshi9974/ECCV2024-AdpatICMH
+- Paper: http://arxiv.org/abs/2407.09853 
 
 <a name="Stereo-Matching"></a>
 
@@ -471,6 +556,17 @@ ECCV 2024 decisions are now available！
 <a name="SGG"></a>
 
 # 场景图生成(Scene Graph Generation)
+
+
+
+<a name="Counting"></a>
+
+# 计数(Counting)
+
+**Zero-shot Object Counting with Good Exemplars**
+
+- Paper: https://arxiv.org/abs/2407.04948
+- Code: https://github.com/HopooLinZ/VA-Count 
 
 
 
@@ -490,3 +586,20 @@ ECCV 2024 decisions are now available！
 
 - Paper: https://arxiv.org/abs/2407.05363v2
 - Code: https://github.com/qzp2018/MCLN 
+
+**PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**
+
+- Code: https://github.com/ananthu-aniraj/pdiscoformer
+- Paper: https://arxiv.org/abs/2407.04538
+
+**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**
+
+- Project: https://fraunhoferhhi.github.io/spvloc/ 
+- Paper: https://arxiv.org/abs/2404.10527
+- Code: https://github.com/fraunhoferhhi/spvloc
+
+**REFRAME: Reflective Surface Real-Time Rendering for Mobile Devices**
+
+- Project: https://xdimlab.github.io/REFRAME/
+- Paper: https://arxiv.org/abs/2403.16481
+- Code: https://github.com/MARVELOUSJI/REFRAME
