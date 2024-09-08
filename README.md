@@ -426,6 +426,12 @@ ECCV 2024 decisions are now available！
 
 # 图像补全/图像修复(Image Inpainting)
 
+**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting**
+
+- Project https://powerpaint.github.io/
+- Paper: https://arxiv.org/abs/2312.03594
+- Code: https://github.com/open-mmlab/PowerPaint
+
 **BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**
 
 - Project https://tencentarc.github.io/BrushNet/
