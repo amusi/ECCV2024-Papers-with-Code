@@ -294,6 +294,10 @@ ECCV 2024 decisions are now available！
 - Code: https://github.com/xiuqhou/Relation-DETR
 - Dataset: https://huggingface.co/datasets/xiuqhou/SA-Det-100k 
 
+**GRA: Detecting Oriented Objects through Group-wise Rotating and Attention**
+- Paper: https://arxiv.org/pdf/2403.11127
+- Code: https://github.com/wangjiangshan0725/GRA
+
 **Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector**
 
 - Project: http://yuqianfu.com/CDFSOD-benchmark/
